@@ -1,2 +1,2 @@
-# wanglabrongji.github.io
+# wanglabtongji.github.io
 Chenfei Wang Lab Webpage
