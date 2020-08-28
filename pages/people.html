@@ -1,0 +1,23 @@
+---
+layout: news
+title: People
+subtitle: People in Wang Lab
+permalink: /people
+---
+
+<h1>People</h1>
+<h3>Current lab members</h3>
+
+<h4>Principle Investigator</h4>
+<ul>
+    <li><a href="/people/chenfei_wang">Chenfei Wang, PhD</a>&nbsp;(Principle Investigator)</li>
+</ul>
+
+<h4>Students</h4>
+<ul>
+    {% for people in site.people %}
+        {% if people.status == "Student" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+        {% endif %}
+    {% endfor %}
+</ul>
