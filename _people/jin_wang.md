@@ -4,7 +4,7 @@ layout: people
 permalink: /people/jin_wang
 status: Student
 pname: Jin Wang
-position: PhD candidate in Bioinformatics
+position: PhD student in Bioinformatics
 eml: jwang0611@163.com
 website: 
 cv: 

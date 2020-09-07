@@ -4,7 +4,7 @@ layout: people
 permalink: /people/sailing_shi
 status: Student
 pname: Sailing Shi
-position: PhD candidate in Biotechnology
+position: PhD student in Biotechnology
 eml: shisl430@163.com
 website: 
 cv: 
