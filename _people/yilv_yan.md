@@ -4,7 +4,7 @@ layout: people
 permalink: /people/yilv_yan
 status: Visiting Student
 pname: Yilv Yan
-position: PhD student in Clinical Medicine
+position: MD student
 eml: 1810946@tongji.edu.cn
 website: 
 cv: 

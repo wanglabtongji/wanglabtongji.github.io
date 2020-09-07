@@ -4,7 +4,7 @@ layout: people
 permalink: /people/junjie_hu
 status: Visiting Student
 pname: Junjie Hu
-position: PhD student in Clinical Medicine
+position: MD student
 eml: hujunjie67@163.com
 website: 
 cv: 
