@@ -16,7 +16,7 @@ Requirements:
     2. Strong programming skills(Python or C or C++ or Java and R).   
     3. Strong computational genomics experiences or machine learning background.   
     4. At least one first-authored English papers published in Bioinformatics or above.   
-    5. Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Wang Lab to [Chenfei](mailto:08chenfeiwang@tongji.edu.cn)  with the subject line "Computational postdoctoral application".   
+    5. Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Wang Lab to [Dr. Wang](mailto:08chenfeiwang@tongji.edu.cn)  with the subject line "Computational postdoctoral application".   
 
 ### Experimental biology postdoc position at the Wang Lab
 Experimental biology postdocs will be working on adopting or developing cutting edge genomics technologies like scRNA-seq, scATAC-seq, CRISPR screens, perturb-seq, and epigenome-seq to understand gene regulation and cellular cross-talks in human immune and developmental system. The full-time postdoctoral compensation is 310K to 340K RMB/year.
@@ -26,4 +26,4 @@ Requirements:
     2. Strong molecular, cell biology, and genomics skills.   
     3. At least one first-authored English papers published in the Journal of Biological Chemistry or above.   
     4. Motivation, independence, and creativity.   
-    5. Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Wang Lab to [Chenfei](mailto:08chenfeiwang@tongji.edu.cn)  with the subject line "Experimental postdoctoral application".   
+    5. Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Wang Lab to [Dr. Wang](mailto:08chenfeiwang@tongji.edu.cn)  with the subject line "Experimental postdoctoral application".   
