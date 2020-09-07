@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Jun Ge received her bachelor’s degree in Biological Sciences from Shandong Normal University in 2014. Her current research is focused on exploring immunity difference between tumor and normal by using single cell data.
+desp: Jun received her bachelor’s degree in Biological Sciences from Shandong Normal University in 2014. Her current research is focused on exploring immunity difference between tumor and normal by using single cell data.
 ---
