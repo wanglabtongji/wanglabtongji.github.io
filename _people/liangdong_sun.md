@@ -2,7 +2,7 @@
 title: Liangdong Sun
 layout: people
 permalink: /people/liangdong_sun
-status: Student
+status: Visiting Student
 pname: Liangdong Sun
 position: PhD student in Clinical Medicine
 eml: 
