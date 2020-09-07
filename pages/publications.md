@@ -43,7 +43,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 - Xu K#, Chen X#, Yang H, Xu Y, He Y, **Wang C**, Huang H, Liu B, Liu W, Li J, Kou X, Zhao Y, Zhao K, Zhang L, Hou Z, Wang H, Wang H, Li J, Fan H, Wang F, Gao Y, Zhang Y, Chen J\*, Gao S\*. Maternal Sall4 is indispensable for epigenetic maturation of mouse oocytes. _**J Biol Chem**_ 2017; 292:1798-1807.<br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/28031467)
 [[Full Paper]](/resources/publications/2016_JBC_Sall4.pdf)
-- Wang Y, Wu Q, Yang P, **Wang C**, Liu J, Ding W, Liu W, Bai Y, Yang Y, Wang H, Gao S\*, Wang X\*. LSD1 co-repressor Rcor2 orchestrates neurogenesis in the developing mouse brain. _**Nat Commun**_ 2016; 7:10481.
+- Wang Y, Wu Q, Yang P, **Wang C**, Liu J, Ding W, Liu W, Bai Y, Yang Y, Wang H, Gao S\*, Wang X\*. LSD1 co-repressor Rcor2 orchestrates neurogenesis in the developing mouse brain. _**Nat Commun**_ 2016; 7:10481.<br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/26795843)
 [[Full Paper]](/resources/publications/2016_NatCommu_Rcor2.pdf) 
 - Xu H#, Xu K#, He HH, Zang C, Chen CH, Chen Y, Qin Q, Wang S, **Wang C**, Hu S, Li F, Long H, Brown M\*, Liu XS\*. Integrative analysis reveals the transcriptional collaboration between EZH2 and E2F1 in the regulation of cancer-related gene expression. _**Mol Cancer Res**_ 2016;14(2):163-72.<br>
