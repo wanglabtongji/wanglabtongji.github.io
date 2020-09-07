@@ -4,7 +4,7 @@ layout: people
 permalink: /people/tong_han
 status: Student
 pname: Tong Han
-position: PhD candidate in Biotechnology
+position: PhD student in Biotechnology
 eml: tonghan0904@gmail.com
 website: 
 cv: 

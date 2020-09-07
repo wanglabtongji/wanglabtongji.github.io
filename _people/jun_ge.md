@@ -4,7 +4,7 @@ layout: people
 permalink: /people/jun_ge
 status: Student
 pname: Jun Ge
-position: Master candidate in Bioinformatics
+position: Master student in Bioinformatics
 eml: 
 website: 
 cv: 
