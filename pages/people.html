@@ -31,10 +31,10 @@ permalink: /people
     {% endfor %}
 </ul>
 
-<h4>Visiting Students</h4>
+<h4>Collaborating Students</h4>
 <ul>
     {% for people in site.people %}
-        {% if people.status == "Visiting Student" %}
+        {% if people.status == "Collaborating Student" %}
             <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
         {% endif %}
     {% endfor %}

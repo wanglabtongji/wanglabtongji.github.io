@@ -2,7 +2,7 @@
 title: Dongqing Sun
 layout: people
 permalink: /people/dongqing_sun
-status: Student
+status: Collaborating Student
 pname: Dongqing Sun
 position: PhD student in Bioinformatics
 eml: dongqingsun96@gmail.com
