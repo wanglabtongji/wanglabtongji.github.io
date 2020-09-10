@@ -2,7 +2,7 @@
 title: Ya Han
 layout: people
 permalink: /people/ya_han
-status: Student
+status: Collaborating Student
 pname: Ya Han
 position: PhD student in Bioinformatics
 eml: yahanhy94@gmail.com

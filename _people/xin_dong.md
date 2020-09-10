@@ -2,7 +2,7 @@
 title: Xin Dong
 layout: people
 permalink: /people/xin_dong
-status: Student
+status: Collaborating Student
 pname: Xin Dong
 position: PhD student in Bioinformatics
 eml: xindong9511@gmail.com

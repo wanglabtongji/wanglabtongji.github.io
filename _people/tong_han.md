@@ -2,7 +2,7 @@
 title: Tong Han
 layout: people
 permalink: /people/tong_han
-status: Student
+status: Collaborating Student
 pname: Tong Han
 position: PhD student in Biotechnology
 eml: tonghan0904@gmail.com

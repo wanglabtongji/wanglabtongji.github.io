@@ -2,7 +2,7 @@
 title: Junjie Hu
 layout: people
 permalink: /people/junjie_hu
-status: Visiting Student
+status: Collaborating Student
 pname: Junjie Hu
 position: MD student
 eml: hujunjie67@163.com

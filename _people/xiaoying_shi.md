@@ -2,7 +2,7 @@
 title: Xiaoying Shi
 layout: people
 permalink: /people/xiaoying_shi
-status: Student
+status: Collaborating Student
 pname: Xiaoying Shi
 position: PhD student in Bioinformatics
 eml: 

@@ -2,7 +2,7 @@
 title: Pengfei Ren
 layout: people
 permalink: /people/pengfei_ren
-status: Student
+status: Collaborating Student
 pname: Pengfei Ren
 position: Master student in Bioinformatics
 eml: 

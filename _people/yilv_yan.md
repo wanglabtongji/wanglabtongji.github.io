@@ -2,7 +2,7 @@
 title: Yilv Yan
 layout: people
 permalink: /people/yilv_yan
-status: Visiting Student
+status: Collaborating Student
 pname: Yilv Yan
 position: MD student
 eml: 1810946@tongji.edu.cn

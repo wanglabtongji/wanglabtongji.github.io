@@ -2,7 +2,7 @@
 title: Sailing Shi
 layout: people
 permalink: /people/sailing_shi
-status: Student
+status: Collaborating Student
 pname: Sailing Shi
 position: PhD student in Biotechnology
 eml: shisl430@163.com

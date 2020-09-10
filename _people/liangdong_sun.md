@@ -2,7 +2,7 @@
 title: Liangdong Sun
 layout: people
 permalink: /people/liangdong_sun
-status: Visiting Student
+status: Collaborating Student
 pname: Liangdong Sun
 position: MD student
 eml: 

@@ -2,7 +2,7 @@
 title: Jun Ge
 layout: people
 permalink: /people/jun_ge
-status: Student
+status: Collaborating Student
 pname: Jun Ge
 position: Master student in Bioinformatics
 eml: 
