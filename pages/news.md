@@ -9,8 +9,8 @@ permalink: /news
 ### 2020
 
 #### September
-- The lab welcomes rotation Ph.D. students Hailin Wei and Yihan Xiao!
-- The lab welcomes Research Assistance Tao Chen!
+- The lab welcomes Ph.D. students Hailin Wei and Yihan Xiao!
+- The lab welcomes Research Assistant Tao Chen!
 
 #### August
 - Wang lab held the first online Bioinformatics summer training successfully!
