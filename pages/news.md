@@ -8,6 +8,10 @@ permalink: /news
 
 ### 2020
 
+#### October
+- Wang lab held the second team building at Chongming Island.
+- Chenfei had his first baby boy. Congrats!
+
 #### September
 - The lab welcomes Ph.D. students Hailin Wei and Yihan Xiao!
 - The lab welcomes Research Assistant Tao Chen!
