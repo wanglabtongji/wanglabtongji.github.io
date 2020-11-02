@@ -13,10 +13,28 @@ permalink: /people
     <li><a href="/people/chenfei_wang">Chenfei Wang, PhD</a>&nbsp;(Principle Investigator)</li>
 </ul>
 
+<h4>Staff</h4>
+<ul>
+    {% for people in site.people %}
+        {% if people.status == "Staff" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+        {% endif %}
+    {% endfor %}
+</ul>
+
 <h4>Students</h4>
 <ul>
     {% for people in site.people %}
         {% if people.status == "Student" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+        {% endif %}
+    {% endfor %}
+</ul>
+
+<h4>Collaborating Students</h4>
+<ul>
+    {% for people in site.people %}
+        {% if people.status == "Collaborating Student" %}
             <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
         {% endif %}
     {% endfor %}
