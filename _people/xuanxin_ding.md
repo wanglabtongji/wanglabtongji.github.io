@@ -2,7 +2,7 @@
 title: Xuanxin Ding
 layout: people
 permalink: /people/xuanxin_ding
-status: Student
+status: Rotation Student
 pname: Xuanxin Ding
 position: Undergraduate in Bioinformatics
 eml: 
