@@ -10,7 +10,7 @@ permalink: /news
 
 #### December
 - Wang lab held the New Year's Eve party. Welcome, 2021!
-- Wang lab went a day trip to Shanghai Wild Animal Park.
+- Wang lab went on a day trip to Shanghai Wild Animal Park.
 
 #### November
 - Wang lab celebrated Thanksgiving Day together!
