@@ -11,9 +11,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2020
-- Sun D#, Wang J#, Han Y#, Dong X, Zheng R, Ge J, Shi X, Wang B, Ren P, Sun L, Yan Y, Zhang P, Zhang F\*, Li T\*, **Wang C\***. TISCH: a comprehensive web resource enabling interactive single-cell transcriptome visualization of tumor microenvironment. _**bioRxiv**_ 2020 Aug 15.<br>
-[[Abstract]](https://www.biorxiv.org/content/10.1101/2020.08.15.251959v1)
-[[Full Paper]](/resources/publications/2020_bioRxiv_TISCH.pdf)
+- Sun D#, Wang J#, Han Y#, Dong X, Zheng R, Ge J, Shi X, Wang B, Ren P, Sun L, Yan Y, Zhang P, Zhang F\*, Li T\*, **Wang C\***. TISCH: a comprehensive web resource enabling interactive single-cell transcriptome visualization of tumor microenvironment. _**Nucleic Acids Res**_ 2020 Nov 12:gkaa1020.<br>
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33179754/)
+[[Full Paper]](/resources/publications/2020_NAR_TISCH.pdf)
 - **Wang C#**, Sun D#, Huang X, Wan C, Li Z, Han Y, Qin Q, Fan J, Qiu X, Xie Y, Meyer CA, Brown M, Tang M, Long H, Liu T\*, Liu XS\*. Integrative analyses of single-cell transcriptome and regulome using MAESTRO. _**Genome Biol**_ 2020 Aug 7;21(1):198.<br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32767996)
 [[Full Paper]](/resources/publications/2020_GenomeBiology_MAESTRO.pdf)

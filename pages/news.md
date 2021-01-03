@@ -8,6 +8,14 @@ permalink: /news
 
 ### 2020
 
+#### December
+- Wang lab held the New Year's Eve party. Welcome, 2021!
+- Wang lab went a day trip to Shanghai Wild Animal Park.
+
+#### November
+- Wang lab celebrated Thanksgiving Day together!
+- Our TISCH paper is published on [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1020/5976978)!
+
 #### October
 - Wang lab held the second team building at Chongming Island.
 - Chenfei had his first baby boy. Congrats!
