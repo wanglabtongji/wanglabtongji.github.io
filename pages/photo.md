@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Photo
-permalink: /photo/
+permalink: /photos/
 ---
 
 # Wang Lab Photo Gallery
