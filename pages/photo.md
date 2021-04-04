@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Software
+title: Photo
 subtitle: Softwares in Wang Lab
-permalink: /software/
+permalink: /photo/
 ---

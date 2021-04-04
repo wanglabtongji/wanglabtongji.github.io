@@ -6,6 +6,11 @@ permalink: /news
 
 # News and Events
 
+### 2021
+
+#### March
+- Jin Wang successfully defended her PhD thesis. Congratulations Dr. Wang!
+
 ### 2020
 
 #### December
