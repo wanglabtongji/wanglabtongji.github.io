@@ -8,6 +8,12 @@ permalink: /news
 
 ### 2021
 
+#### June
+- Wang lab visited the 10th China Flower Expo held in Chongming Shanghai!
+
+#### May
+- Sailing Shi and Jun Ge successfully defended PhD and master thesis, respectively. Congratulations!
+
 #### March
 - Jin Wang successfully defended her PhD thesis. Congratulations Dr. Wang!
 
