@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Yihan Xiao received her bachelor's degree in Bioinformatics from Tongji University in 2020. Her research focuses on Spatial Transcriptomics.
+desp: Yihan Xiao received her bachelor’s degree in Bioinformatics from Tongji University in 2020. She is now working with tool development for spatial transcriptomics data mining and integration with scRNA-seq data.
 ---

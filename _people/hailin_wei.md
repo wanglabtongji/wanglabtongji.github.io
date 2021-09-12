@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Hailin received his bachelor's degree in Bioinformatics from Tongji University in 2020. 
+desp: Hailin received his bachelor's degree in Bioinformatics from Tongji University in 2020. His research focuses on modeling gene regulation and perturbation efficiency from single-cell CRISPR screen data. Recently, he is working on developing a universal pipeline to analyze single-cell CRISPR screen data.
 ---

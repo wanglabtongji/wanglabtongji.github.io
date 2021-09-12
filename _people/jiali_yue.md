@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Jiali received her bachelor's degree in Bioinformatics from Hunan Agricultural University in 2015.
+desp: Jiali Yue received her bachelor's degree in Bioinformatics from Hunan Agricultural University in 2019. Her research focuses on processing tumor-related scRNA-seq datasets and exploring the relationship between tumor cells and the microenvironment. Recently, she is working on integrating scRNA-seq data on Cervical Cancer to explore the potential resistant mechanism.
 ---

@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Xuanxin is a junior student of Tongji university, majoring in Bioinformatics. He is now studying how to use the data of single cell to explore the difference of PBMCs under different conditions.
+desp: Xuanxin is a senior student of Tongji university, majoring in Bioinformatics. He is now focusing on collecting and analyzing single-cell RNA-seq data from normal tissue.
 ---

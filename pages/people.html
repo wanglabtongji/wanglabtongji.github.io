@@ -39,7 +39,13 @@ permalink: /people
         {% endif %}
     {% endfor %}
 </ul>
-
+<ul>
+    {% for people in site.people %}
+        {% if people.status == "Visiting Student" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+        {% endif %}
+    {% endfor %}
+</ul>
 <h4>Rotation Students</h4>
 <ul>
     {% for people in site.people %}
