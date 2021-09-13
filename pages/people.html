@@ -7,7 +7,7 @@ permalink: /people
 
 <h1>People</h1>
 
-<h2>Principle Investigator</h2>
+<h3>Principle Investigator</h3>
     {% for people in site.people %}
         {% if people.status == "Principle Investigator" %}
             <div class="row">
@@ -65,9 +65,9 @@ permalink: /people
             </div>
         {% endif %}
     {% endfor %}
-<hr>
+<hr class="large">
 
-<h2>Staff</h2>
+<h3>Staff</h3>
 <ul>
     {% for people in site.people %}
         {% if people.status == "Staff" %}
@@ -127,8 +127,9 @@ permalink: /people
         {% endif %}
     {% endfor %}
 </ul>
+<hr class="large">
 
-<h2>Students</h2>
+<h3>Students</h3>
 <ul>
     {% for people in site.people %}
         {% if people.status == "Student" %}
@@ -184,12 +185,14 @@ permalink: /people
                     <h3>{{people.pname}}</h3>
                     <p>{{people.desp}}</p>
                 </div>
+                <hr class="small">
             </div>
         {% endif %}
     {% endfor %}
 </ul>
+<hr class="large">
 
-<h2>Collaborating Students</h2>
+<h3>Collaborating Students</h3>
 <ul>
     {% for people in site.people %}
         {% if people.status == "Collaborating Student" %}
@@ -245,11 +248,14 @@ permalink: /people
                     <h3>{{people.pname}}</h3>
                     <p>{{people.desp}}</p>
                 </div>
+                <hr class="small">
             </div>
         {% endif %}
     {% endfor %}
 </ul>
-<h2>Visiting Students</h2>
+<hr class="large">
+
+<h3>Visiting Students</h3>
 <ul>
     {% for people in site.people %}
         {% if people.status == "Visiting Student" %}
@@ -308,8 +314,9 @@ permalink: /people
             </div>
         {% endif %}
     {% endfor %}
-</ul>
-<h2>Rotation Students</h2>
+<hr class="large">
+
+<h3>Rotation Students</h3>
 <ul>
     {% for people in site.people %}
         {% if people.status == "Rotation Student" %}
@@ -366,6 +373,7 @@ permalink: /people
                     <p>{{people.desp}}</p>
                 </div>
             </div>
+            <hr class="small">
         {% endif %}
     {% endfor %}
 </ul>
