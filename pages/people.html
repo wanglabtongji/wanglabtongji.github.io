@@ -12,7 +12,7 @@ permalink: /people
     {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Principle Investigator" %}
-            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% assign count = count | plus:1 %}
             {% if count > 1 %}
             <hr>
             {% endif %}
@@ -79,7 +79,7 @@ permalink: /people
     {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Staff" %}
-            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% assign count = count | plus:1 %}
             {% if count > 1 %}
             <hr>
             {% endif %}
@@ -146,7 +146,7 @@ permalink: /people
     {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Student" %}
-            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% assign count = count | plus:1 %}
             {% if count > 1 %}
             <hr>
             {% endif %}
@@ -213,7 +213,7 @@ permalink: /people
     {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Collaborating Student" %}
-            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% assign count = count | plus:1 %}
             {% if count > 1 %}
             <hr>
             {% endif %}
@@ -280,7 +280,7 @@ permalink: /people
     {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Visiting Student" %}
-            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% assign count = count | plus:1 %}
             {% if count > 1 %}
             <hr>
             {% endif %}
@@ -347,7 +347,7 @@ permalink: /people
     {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Rotation Student" %}
-            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% assign count = count | plus:1 %}
             {% if count > 1 %}
             <hr>
             {% endif %}
