@@ -61,7 +61,7 @@ blockquote p:first-child {
 
 hr.large {
   font-weight: bold;
-  border-top: 2px solid rgba(0,0,0,.2)
+  border-top: 1px solid rgba(0,0,0,.2)
 }
 
 /* fix in-page anchors to not be behind fixed header */
