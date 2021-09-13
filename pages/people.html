@@ -9,8 +9,13 @@ permalink: /people
 <hr class="large">
 <h3>Principle Investigator</h3>
 <ul>
+    {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Principle Investigator" %}
+            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% if count > 1 %}
+            <hr>
+            {% endif %}
             <div class="row">
                 <div class="col-lg-3" style="font-size: 1rem; padding-top: 1rem">
                     <table class="table table-borderless table-sm">
@@ -60,7 +65,7 @@ permalink: /people
 
                 </div>
                 <div class="col-lg-9">
-                    <h3 style="border-bottom: 1px solid rgba(0,0,0,.1)">{{people.pname}}</h3>
+                    <h3>{{people.pname}}</h3>
                     <p>{{people.desp}}</p>
                 </div>
             </div>
@@ -71,8 +76,13 @@ permalink: /people
 
 <h3>Staff</h3>
 <ul>
+    {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Staff" %}
+            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% if count > 1 %}
+            <hr>
+            {% endif %}
             <div class="row">
                 <div class="col-lg-3" style="font-size: 1rem; padding-top: 1rem">
                     <table class="table table-borderless table-sm">
@@ -133,8 +143,13 @@ permalink: /people
 
 <h3>Students</h3>
 <ul>
+    {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Student" %}
+            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% if count > 1 %}
+            <hr>
+            {% endif %}
             <div class="row">
                 <div class="col-lg-3" style="font-size: 1rem; padding-top: 1rem">
                     <table class="table table-borderless table-sm">
@@ -198,8 +213,13 @@ permalink: /people
 
 <h3>Collaborating Students</h3>
 <ul>
+    {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Collaborating Student" %}
+            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% if count > 1 %}
+            <hr>
+            {% endif %}
             <div class="row">
                 <div class="col-lg-3" style="font-size: 1rem; padding-top: 1rem">
                     <table class="table table-borderless table-sm">
@@ -263,8 +283,13 @@ permalink: /people
 
 <h3>Visiting Students</h3>
 <ul>
+    {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Visiting Student" %}
+            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% if count > 1 %}
+            <hr>
+            {% endif %}
             <div class="row">
                 <div class="col-lg-3" style="font-size: 1rem; padding-top: 1rem">
                     <table class="table table-borderless table-sm">
@@ -325,8 +350,13 @@ permalink: /people
 
 <h3>Rotation Students</h3>
 <ul>
+    {% assign count = 0 %}
     {% for people in site.people %}
         {% if people.status == "Rotation Student" %}
+            {% capture count %}{{ count | plus: 1 }}{% endcapture %}
+            {% if count > 1 %}
+            <hr>
+            {% endif %}
             <div class="row">
                 <div class="col-lg-3" style="font-size: 1rem; padding-top: 1rem">
                     <table class="table table-borderless table-sm">
