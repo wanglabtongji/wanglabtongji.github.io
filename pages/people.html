@@ -7,7 +7,6 @@ permalink: /people
 
 <h1>People</h1>
 <hr class="large">
-git 
 <h3>Principle Investigator</h3>
 <ul>
     {% for people in site.people %}
@@ -254,6 +253,8 @@ git
                     <p>{{people.desp}}</p>
                 </div>
             </div>
+            <p>{{forloop.counter}}</p>
+            <p>{{site.people|length}}</p>
             {% if forloop.counter < site.people|length %}
             <hr>
             {% endif %}
