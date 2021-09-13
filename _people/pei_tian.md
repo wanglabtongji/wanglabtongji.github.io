@@ -1,9 +1,9 @@
 ---
-title: Shan Wang
+title: Pei Tian
 layout: people
-permalink: /people/shan_wang
+permalink: /people/pei_tian
 status: Rotation Student
-pname: Shan Wang
+pname: Pei Tian
 position: Undergraduate in Bioinformatics
 eml: 
 website: 
@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Shan is a junior student of Tongji university, majoring in bioinformatics.
+desp: Pei is a junior student of Tongji university, majoring in bioinformatics.
 ---
