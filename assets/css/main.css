@@ -58,12 +58,8 @@ blockquote {
 blockquote p:first-child {
   margin-top: 0;
 }
-hr.small {
-  border-color: inherit;
-}
 
 hr.large {
-  border-color: #314f96;
   font-weight: bold;
 }
 
