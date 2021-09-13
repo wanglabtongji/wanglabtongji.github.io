@@ -6,8 +6,10 @@ permalink: /people
 ---
 
 <h1>People</h1>
+<hr class="large">
 
 <h3>Principle Investigator</h3>
+<ul>
     {% for people in site.people %}
         {% if people.status == "Principle Investigator" %}
             <div class="row">
@@ -65,6 +67,7 @@ permalink: /people
             </div>
         {% endif %}
     {% endfor %}
+</ul>
 <hr class="large">
 
 <h3>Staff</h3>
