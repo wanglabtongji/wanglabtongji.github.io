@@ -8,6 +8,14 @@ permalink: /news
 
 ### 2021
 
+#### September
+- The lab welcomes Ph.D. students Zhaoyang and Yuting!
+- The lab welcomes master student Yunfan!
+- Wang lab visited Shanghai Astronomy Museum.
+
+#### August
+- Wang lab held the second online Bioinformatics summer training successfully!
+
 #### June
 - Wang lab visited the 10th China Flower Expo held in Chongming Shanghai!
 
