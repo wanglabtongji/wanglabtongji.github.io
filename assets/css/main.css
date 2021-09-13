@@ -59,19 +59,11 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 6.25rem;
-  margin: 1rem auto;
-  border-width: 0.25rem;
   border-color: inherit;
-  border-radius: 0.1875rem;
 }
 
 hr.large {
-  max-width: 6.25rem;
-  margin: 1rem auto;
-  border-width: 0.25rem;
   border-color: #314f96;
-  border-radius: 0.1875rem;
   font-weight: bold;
 }
 
