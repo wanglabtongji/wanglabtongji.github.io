@@ -15,8 +15,8 @@ SELINA is a deep learning-based framework for single cell assignment with multip
 #### Single Cell Epigenetics
 - [**MAESTRO**](http://github.com/liulab-dfci/MAESTRO) &nbsp;
 Model-based Analyses of Transcriptome and Regulome (MAESTRO) is a comprehensive open-source computational workflow for integrative analysis of single-cell RNA-seq (scRNA-seq) and ATAC-seq (scATAC-seq) data from multiple platforms.
-- [**SCRIPT**](https://github.com/wanglabtongji/SCRIPT) &nbsp;
-SCRIPT (Single Cell Regulatory network Inference using ChIP-seq CollecTion) is a tool for evaluating the binding enrichment of specific TR at single-cell resolution based on scATAC-seq.
+- [**SCRIP**](https://github.com/wanglabtongji/SCRIP) &nbsp;
+SCRIP (Single Cell Regulatory network Inference using ChIP-seq) is a tool for evaluating the binding enrichment of specific TR at single-cell resolution based on scATAC-seq.
 
 #### Single Cell CRISPR Screen
 - [**SCREEN**](https://github.com/HailinWei98/SCREEN/) &nbsp;
