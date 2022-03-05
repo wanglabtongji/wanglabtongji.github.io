@@ -2,7 +2,7 @@
 title: Zhiguang Yu
 layout: people
 permalink: /people/zhiguang_yu
-status: Visiting Student
+status: Collaborating Students
 pname: Zhiguang Yu
 position: Master student in Bioinformatics
 eml: 

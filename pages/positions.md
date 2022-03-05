@@ -9,7 +9,7 @@ permalink: /positions
 The laboratory of Professor Chenfei Wang at Tongji University invites applicants for the positions listed below. The research in the laboratory focuses on developing computational algorithms to decipher mechanisms on gene regulation and cellular cross talks based on single-cell transcriptomics and epigenomics. 
 
 ### Computational biology postdoc position at the Wang Lab
-Computational biology postdocs will be working on developing algorithms and data mining projects to understand gene regulation and cellular cross-talks in the human immune and developmental system. The postdoc fellow will be working on scRNA-seq, scATAC-seq, CRISPR screens, perturb-seq, and epigenome-seq data. The full-time postdoctoral compensation is 310K to 340K RMB/year.
+Computational biology postdocs will be working on developing algorithms and data mining projects to understand gene regulation and cellular cross-talks in the human immune disease and developmental system. The postdoc fellow will be working on single-cell multi-omic, spatial multi-omic, single-cell CRISPR screens data. The full-time postdoctoral compensation is 310K to 340K RMB/year.
 
 Requirements:<br/><br/>
     1. Ph.D. degree in bioinformatics, computation science, statistics.   
@@ -19,7 +19,7 @@ Requirements:<br/><br/>
     5. Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Wang Lab to [Dr. Wang](mailto:08chenfeiwang@tongji.edu.cn)  with the subject line "Computational postdoctoral application".   
 
 ### Experimental biology postdoc position at the Wang Lab
-Experimental biology postdocs will be working on adopting or developing cutting edge genomics technologies like scRNA-seq, scATAC-seq, CRISPR screens, perturb-seq, and epigenome-seq to understand gene regulation and cellular cross-talks in human immune and developmental system. The full-time postdoctoral compensation is 310K to 340K RMB/year.
+Experimental biology postdocs will be working on adopting or developing cutting edge genomics technologies like single-cell multi-omic, spatial multi-omic, single-cell CRISPR screens to understand gene regulation and cellular cross-talks in human immune disease and developmental system. The full-time postdoctoral compensation is 310K to 340K RMB/year.
 
 Requirements:<br/><br/>
     1. Ph.D. degree in biology.   

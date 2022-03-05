@@ -6,11 +6,23 @@ permalink: /news
 
 # News and Events
 
+### 2022
+
+#### February
+- Our STRIDE paper is accepted by Nucleic Acids Research!
+
 ### 2021
+
+#### December
+- Wang lab held the New Year's Eve party. Nice to meet you, 2022!
+
+#### October
+- Tong, Dongqing, Ya, Xin, Pengfei and Chenfei attend the 10th Meeting of Bioinformatics and Systems Biology in Chengdu.
+- Dongqing won the first prize of best posters in the 10th Meeting of Bioinformatics and Systems Biology. Good job Dongqing!
 
 #### September
 - The lab welcomes Ph.D. students Zhaoyang and Yuting!
-- The lab welcomes master student Yunfan!
+- The lab welcomes Master student Yunfan!
 - Wang lab visited Shanghai Astronomy Museum.
 
 #### August

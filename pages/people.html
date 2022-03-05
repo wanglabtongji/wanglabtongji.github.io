@@ -275,73 +275,6 @@ permalink: /people
 </ul>
 <hr class="large">
 
-<h3>Visiting Students</h3>
-<ul>
-    {% assign count = 0 %}
-    {% for people in site.people %}
-        {% if people.status == "Visiting Student" %}
-            {% assign count = count | plus:1 %}
-            {% if count > 1 %}
-            <hr>
-            {% endif %}
-            <div class="row">
-                <div class="col-lg-3" style="font-size: 1rem; padding-top: 1rem">
-                    <table class="table table-borderless table-sm">
-                        <tbody>
-                            <tr>
-                                <td style="text-align: center;" colspan="2">
-                                    <div class="rounded-circle" style="height: 200px; width: 200px; overflow: hidden; margin-bottom: 1rem"> 
-                                        <img src="/assets/img{{people.permalink}}.jpg" data-action="zoom">
-                                    </div>
-                                </td>
-                            </tr>
-                            {% if people.office %}
-                            <tr>
-                              <td><i class="fas fa-building"></i></td>
-                              <td>{{people.office}}</td>
-                            </tr>
-                            {% endif %}
-
-                            {% if people.eml %}
-                            <tr>
-                              <td><i class="fas fa-envelope"></i></td>
-                              <td><a href="mailto:{{people.eml}}">{{people.eml}}</a></td>
-                            </tr>
-                            {% endif %}
-
-                            <tr>
-                              <td colspan="2">
-                                {% if people.website %}
-                                    <a href="{{people.website}}"><i class="fas fa-globe"></i></a>
-                                {% endif %}
-
-                                {% if people.google_scholar %}
-                                    <a href="{{people.google_scholar}}"><i class="fas fa-graduation-cap"></i></a>
-                                {% endif %}
-
-                                {% if people.github %}
-                                    <a href="{{people.github}}"><i class="fab fa-github"></i></a>
-                                {% endif %}
-
-                                {% if people.twitter %}
-                                    <a href="{{people.twitter}}"><i class="fab fa-twitter"></i></a>
-                                {% endif %}
-                              </td>
-                            </tr>
-                        </tbody>
-                    </table>
-
-                </div>
-                <div class="col-lg-9">
-                    <h3>{{people.pname}}</h3>
-                    <p>{{people.desp}}</p>
-                </div>
-            </div>
-        {% endif %}
-    {% endfor %}
-</ul>
-<hr class="large">
-
 <h3>Rotation Students</h3>
 <ul>
     {% assign count = 0 %}
@@ -407,3 +340,16 @@ permalink: /people
         {% endif %}
     {% endfor %}
 </ul>
+
+<h3>Alumni</h3>
+<h4>Students and current status</h4>
+<ul>
+    <li>Jin Wang, PhD (2020-2021) GV20 Oncotherapy, Shanghai, China</li>
+    <li>Sailing Shi, PhD (2020-2021) GV20 Oncotherapy, Shanghai, China</li>
+    <li>Jun Ge, Master (2020-2021)</li>
+</ul>
+
+
+
+
+
