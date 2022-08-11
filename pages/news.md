@@ -8,8 +8,17 @@ permalink: /news
 
 ### 2022
 
+#### August 
+- Wang lab held the third online Bioinformatics summer training successfully!
+- Chenfei is funded by the National Science Fund for Excellent Young Scholars! Congrats!
+
+#### June
+- Pengfei successfully defended his master thesis. Congratulations!
+- Qiu's collaboration of H3K9me3 reprogamming in human early embryos is accepted by [Cell Stem Cell](https://www.sciencedirect.com/science/article/abs/pii/S1934590922002508)!
+
 #### February
-- Our STRIDE paper is accepted by Nucleic Acids Research!
+- Our STRIDE paper for spatial transcriptomics deconvolution analyses is accepted by [Nucleic Acids Research](https://academic.oup.com/nar/article/50/7/e42/6543547)!
+- Chenfei's collaboration of nucleosome establishment and remodelling in mouse pronucleus is accepted by [Cell Research](https://www.nature.com/articles/s41422-022-00652-8)!
 
 ### 2021
 
@@ -23,6 +32,7 @@ permalink: /news
 #### September
 - The lab welcomes Ph.D. students Zhaoyang and Yuting!
 - The lab welcomes Master student Yunfan!
+- The lab welcomes Visiting student Zhiguang!
 - Wang lab visited Shanghai Astronomy Museum.
 
 #### August
@@ -57,7 +67,7 @@ permalink: /news
 
 #### August
 - Wang lab held the first online Bioinformatics summer training successfully!
-- Our paper on integrative analysis of scRNA-seq and scATAC-seq is published on [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02116-x)!
+- Our MAESTRO paper for integrative analysis of scRNA-seq and scATAC-seq is published on [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02116-x)!
 
 #### July
 - Tumor scRNA-seq database TISCH is online now. Check out [TISCH](http://tisch.comp-genomics.org/) for uniformly processed and annotated tumor data of > 2M cells! 
