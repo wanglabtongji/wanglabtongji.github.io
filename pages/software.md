@@ -25,5 +25,5 @@ SCRIP (Single Cell Regulatory network Inference using ChIP-seq) is a tool for ev
 #### Spatial Transcriptome
 - [**STRIDE**](https://github.com/wanglabtongji/STRIDE) &nbsp;
 Spatial transcriptomics deconvolution by topic modeling (STRIDE) is a topic-model-based deconvolution method for spatial transcriptomics by integrating with scRNA-seq.
-- [**CCI**] (https://github.com/wanglabtongji/CCI) &nbsp;
+- [**CCI**](https://github.com/wanglabtongji/CCI) &nbsp;
 Benchmarking of CCI prediction tools based on the integration of single-cell and spatial transcriptomic data.
