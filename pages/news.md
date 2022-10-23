@@ -8,17 +8,26 @@ permalink: /news
 
 ### 2022
 
+#### Oct
+- Our evaluation paper of CCI tools by integrating single-cell and spatial transcriptomic datasets is published in [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02783-y).
+- Our updated single-cell data hub for investigating the tumor microenvironment (TISCH2) is accepted by Nucleic Acids Research! Now it has integrated datasets for 6M cells!
+- Our single-cell data hub for investigating the normal tissues of human (HUSCH) is accepted by Nucleic Acids Research!
+
+#### September
+- The lab welcomes Ph.D. students Qihang and master student Zhonghua!
+- Our SCRIP algorithm on inferring gene regulatory networks from scATAC-seq data is published in [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac819/6717821?login=false)!
+
 #### August 
 - Wang lab held the third online Bioinformatics summer training successfully!
 - Chenfei is funded by the National Science Fund for Excellent Young Scholars! Congrats!
 
 #### June
-- Pengfei successfully defended his master thesis. Congratulations!
-- Qiu's collaboration of H3K9me3 reprogamming in human early embryos is accepted by [Cell Stem Cell](https://www.sciencedirect.com/science/article/abs/pii/S1934590922002508)!
+- Pengfei successfully defended his master's thesis. Congratulations!
+- Qiu's collaboration of H3K9me3 reprogramming in human early embryos is accepted by [Cell Stem Cell](https://www.sciencedirect.com/science/article/abs/pii/S1934590922002508)!
 
 #### February
 - Our STRIDE paper for spatial transcriptomics deconvolution analyses is accepted by [Nucleic Acids Research](https://academic.oup.com/nar/article/50/7/e42/6543547)!
-- Chenfei's collaboration of nucleosome establishment and remodelling in mouse pronucleus is accepted by [Cell Research](https://www.nature.com/articles/s41422-022-00652-8)!
+- Chenfei's collaboration of nucleosome establishment and remodeling in mouse pronucleus is accepted by [Cell Research](https://www.nature.com/articles/s41422-022-00652-8)!
 
 ### 2021
 
@@ -26,13 +35,11 @@ permalink: /news
 - Wang lab held the New Year's Eve party. Nice to meet you, 2022!
 
 #### October
-- Tong, Dongqing, Ya, Xin, Pengfei and Chenfei attend the 10th Meeting of Bioinformatics and Systems Biology in Chengdu.
-- Dongqing won the first prize of best posters in the 10th Meeting of Bioinformatics and Systems Biology. Good job Dongqing!
+- Tong, Dongqing, Ya, Xin, Pengfei, and Chenfei attend the 10th Meeting of Bioinformatics and Systems Biology in Chengdu.
+- Dongqing won the first prize for best poster at the 10th Meeting of Bioinformatics and Systems Biology. Good job Dongqing!
 
 #### September
-- The lab welcomes Ph.D. students Zhaoyang and Yuting!
-- The lab welcomes Master student Yunfan!
-- The lab welcomes Visiting student Zhiguang!
+- The lab welcomes Ph.D. students Zhaoyang and Yuting, master student Yunfan and visiting student Zhiguang!
 - Wang lab visited Shanghai Astronomy Museum.
 
 #### August
@@ -42,10 +49,10 @@ permalink: /news
 - Wang lab visited the 10th China Flower Expo held in Chongming Shanghai!
 
 #### May
-- Sailing Shi and Jun Ge successfully defended PhD and master thesis, respectively. Congratulations!
+- Sailing Shi and Jun Ge successfully defended their Ph.D. and master thesis, respectively. Congratulations!
 
 #### March
-- Jin Wang successfully defended her PhD thesis. Congratulations Dr. Wang!
+- Jin Wang successfully defended her Ph.D. thesis. Congratulations Dr. Wang!
 
 ### 2020
 
@@ -58,12 +65,11 @@ permalink: /news
 - Our TISCH paper is published on [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1020/5976978)!
 
 #### October
-- Wang lab held the second team building at Chongming Island.
+- Wang lab held a team building at Chongming Island.
 - Chenfei had his first baby boy. Congrats!
 
 #### September
-- The lab welcomes Ph.D. students Hailin Wei and Yihan Xiao!
-- The lab welcomes Research Assistant Tao Chen!
+- The lab welcomes Ph.D. students Hailin Wei and Yihan Xiao, and research assistant Tao Chen!
 
 #### August
 - Wang lab held the first online Bioinformatics summer training successfully!

@@ -12,20 +12,24 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 
 ### 2022
 
-- Xu R#, Li S#, **Wu Q#**, Li C#, Jiang M#, Guo L, Chen M, Yang L, Dong X, Wang H, **Wang C\***, Liu X\*, Ou X\*, Gao S\*. Stage-specific H3K9me3 occupancy ensures retrotransposon silencing in human preimplantation embryos. _**Cell Stem Cell**_ 2022 29 (7), 1051-1066. e8.
-[[Abstract]](https://www.sciencedirect.com/science/article/abs/pii/S1934590922002508)
-[[Full Paper]](/resources/publications/2022_CSC_H3K9me3.pdf)
-- **Wang C#**, Chen C#, Liu X#, Li C#, Wu Q, Chen X, Yang L, Kou X, Zhao Y, Wang H, Gao Y\*, Zhang Y\*, Gao S\*. Dynamic nucleosome organization after fertilization reveals regulatory factors for mouse zygotic genome activation. _**Cell Res**_ 2022 0:1-13.
-[[Abstract]](https://www.nature.com/articles/s41422-022-00652-8)
-[[Full Paper]](/resources/publications/2022_CellResearch_Nucleosome.pdf)
 - **Sun D#**, **Liu Z**, Li T, Wu Q, **Wang C\***. STRIDE: accurately decomposing and integrating spatial transcriptomics using single-cell RNA sequencing. _**Nucleic Acids Res**_ 2022 50 (7), e42-e42.<br>
 [[Abstract]](https://academic.oup.com/nar/article-abstract/50/7/e42/6543547)
 [[Full Paper]](/resources/publications/2022_NAR_STRIDE.pdf)
 [[Software]](https://github.com/wanglabtongji/STRIDE)
-- **Dong X#**, **Tang K#**, **Xu Y**, **Wei H**, **Han T**, **Wang C\***. Single-cell Gene Regulation Network Inference by Large-scale Data Integration. _**bioRxiv**_ 2022.02.19.481131
-[[Abstract]](https://www.biorxiv.org/content/10.1101/2022.02.19.481131.abstract)
-[[Full Paper]](https://www.biorxiv.org/content/10.1101/2022.02.19.481131v1.full.pdf)
+- **Dong X#**, **Tang K#**, **Xu Y**, **Wei H**, **Han T**, **Wang C\***. Single-cell Gene Regulation Network Inference by Large-scale Data Integration. _**Nucleic Acids Res**_ 2022 doi.org/10.1093/nar/gkac819.<br>
+[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac819/6717821?login=false)
+[[Full Paper]](/resources/publications/2022_NAR_SCRIP.pdf)
 [[Software]](https://github.com/wanglabtongji/SRIP)
+- **Liu Z#**, **Sun D**, **Wang C\***. Evaluation of cell-cell interaction methods by integrating single-cell RNA sequencing data with spatial information. _**Genome Biol**_ 2022 23 (1), 1-38.<br> 
+[[Abstract]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02783-y)
+[[Full Paper]](/resources/publications/2022_GenomeBiology_CCI.pdf)
+[[Software]](https://github.com/wanglabtongji/CCI)
+- Xu R#, Li S#, **Wu Q#**, Li C#, Jiang M#, Guo L, Chen M, Yang L, Dong X, Wang H, **Wang C\***, Liu X\*, Ou X\*, Gao S\*. Stage-specific H3K9me3 occupancy ensures retrotransposon silencing in human preimplantation embryos. _**Cell Stem Cell**_ 2022 29 (7), 1051-1066. e8.<br>
+[[Abstract]](https://www.sciencedirect.com/science/article/abs/pii/S1934590922002508)
+[[Full Paper]](/resources/publications/2022_CSC_H3K9me3.pdf)
+- **Wang C#**, Chen C#, Liu X#, Li C#, Wu Q, Chen X, Yang L, Kou X, Zhao Y, Wang H, Gao Y\*, Zhang Y\*, Gao S\*. Dynamic nucleosome organization after fertilization reveals regulatory factors for mouse zygotic genome activation. _**Cell Res**_ 2022 0:1-13.<br>
+[[Abstract]](https://www.nature.com/articles/s41422-022-00652-8)
+[[Full Paper]](/resources/publications/2022_CellResearch_Nucleosome.pdf)
 - **Ren P#**, **Shi X#**, **Dong X**, Yu Z, Ding X, **Wang J**, Sun L, Yan Y, Hu J, Zhang P, Chen Q, Li T, **Wang C\***. SELINA: Single-cell Assignment using Multiple-Adversarial Domain Adaptation Network with Large-scale References. _**bioRxiv**_ 2022.01.14.476306
 [[Abstract]](https://www.biorxiv.org/content/10.1101/2022.01.14.476306v1.abstract)
 [[Full Paper]](https://www.biorxiv.org/content/10.1101/2022.01.14.476306v1.full.pdf)
