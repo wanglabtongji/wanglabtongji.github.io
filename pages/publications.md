@@ -24,11 +24,11 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 [[Abstract]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02783-y)
 [[Full Paper]](/resources/publications/2022_GenomeBiology_CCI.pdf)
 [[Software]](https://github.com/wanglabtongji/CCI)
-- Han Y#, Wang Y#, Dong X#, Sun D, Liu Z, Yue J, Wang H, Li T\*, **Wang C\***. TISCH2: expanded datasets and new tools for single-cell transcriptome analyses of the tumor microenvironment. _**Nucleic Acids Res**_ 2022 accepted.
+- Han Y#, Wang Y#, Dong X#, Sun D, Liu Z, Yue J, Wang H, Li T\*, **Wang C\***. TISCH2: expanded datasets and new tools for single-cell transcriptome analyses of the tumor microenvironment. _**Nucleic Acids Res**_ 2022 accepted.<br> 
 [[Abstract]]
 [[Full Paper]]
 [[Software]](http://tisch.comp-genomics.org/)
-- Shi X#, Yu Z#, Ren P, Dong X, Ding X, Song J, Zhang J, Li T\*, **Wang C\***. HUSCH: an integrated single-cell transcriptome atlas for human tissue gene expression visualization and analyses. _**Nucleic Acids Res**_ 2022 accepted.
+- Shi X#, Yu Z#, Ren P, Dong X, Ding X, Song J, Zhang J, Li T\*, **Wang C\***. HUSCH: an integrated single-cell transcriptome atlas for human tissue gene expression visualization and analyses. _**Nucleic Acids Res**_ 2022 accepted.<br>
 [[Abstract]]
 [[Full Paper]]
 [[Software]](http://husch.comp-genomics.org/)
