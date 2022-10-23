@@ -12,25 +12,33 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 
 ### 2022
 
-- **Sun D#**, **Liu Z**, Li T, Wu Q, **Wang C\***. STRIDE: accurately decomposing and integrating spatial transcriptomics using single-cell RNA sequencing. _**Nucleic Acids Res**_ 2022 50 (7), e42-e42.<br>
+- Sun D#, Liu Z, Li T, Wu Q, **Wang C\***. STRIDE: accurately decomposing and integrating spatial transcriptomics using single-cell RNA sequencing. _**Nucleic Acids Res**_ 2022 50 (7), e42-e42.<br>
 [[Abstract]](https://academic.oup.com/nar/article-abstract/50/7/e42/6543547)
 [[Full Paper]](/resources/publications/2022_NAR_STRIDE.pdf)
 [[Software]](https://github.com/wanglabtongji/STRIDE)
-- **Dong X#**, **Tang K#**, **Xu Y**, **Wei H**, **Han T**, **Wang C\***. Single-cell Gene Regulation Network Inference by Large-scale Data Integration. _**Nucleic Acids Res**_ 2022 doi.org/10.1093/nar/gkac819.<br>
+- Dong X#, Tang K#, Xu Y, Wei H, Han T, **Wang C\***. Single-cell Gene Regulation Network Inference by Large-scale Data Integration. _**Nucleic Acids Res**_ 2022 doi.org/10.1093/nar/gkac819.<br>
 [[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac819/6717821?login=false)
 [[Full Paper]](/resources/publications/2022_NAR_SCRIP.pdf)
 [[Software]](https://github.com/wanglabtongji/SRIP)
-- **Liu Z#**, **Sun D**, **Wang C\***. Evaluation of cell-cell interaction methods by integrating single-cell RNA sequencing data with spatial information. _**Genome Biol**_ 2022 23 (1), 1-38.<br> 
+- Liu Z#, Sun D, **Wang C\***. Evaluation of cell-cell interaction methods by integrating single-cell RNA sequencing data with spatial information. _**Genome Biol**_ 2022 23 (1), 1-38.<br> 
 [[Abstract]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02783-y)
 [[Full Paper]](/resources/publications/2022_GenomeBiology_CCI.pdf)
 [[Software]](https://github.com/wanglabtongji/CCI)
-- Xu R#, Li S#, **Wu Q#**, Li C#, Jiang M#, Guo L, Chen M, Yang L, Dong X, Wang H, **Wang C\***, Liu X\*, Ou X\*, Gao S\*. Stage-specific H3K9me3 occupancy ensures retrotransposon silencing in human preimplantation embryos. _**Cell Stem Cell**_ 2022 29 (7), 1051-1066. e8.<br>
+- Han Y#, Wang Y#, Dong X#, Sun D, Liu Z, Yue J, Wang H, Li T\*, **Wang C\***. TISCH2: expanded datasets and new tools for single-cell transcriptome analyses of the tumor microenvironment. _**Nucleic Acids Res**_ 2022 accepted.
+[[Abstract]]
+[[Full Paper]]
+[[Software]](http://tisch.comp-genomics.org/)
+- Shi X#, Yu Z#, Ren P, Dong X, Ding X, Song J, Zhang J, Li T\*, **Wang C\***. HUSCH: an integrated single-cell transcriptome atlas for human tissue gene expression visualization and analyses. _**Nucleic Acids Res**_ 2022 accepted.
+[[Abstract]]
+[[Full Paper]]
+[[Software]](http://husch.comp-genomics.org/)
+- Xu R#, Li S#, Wu Q#, Li C#, Jiang M#, Guo L, Chen M, Yang L, Dong X, Wang H, **Wang C\***, Liu X\*, Ou X\*, Gao S\*. Stage-specific H3K9me3 occupancy ensures retrotransposon silencing in human preimplantation embryos. _**Cell Stem Cell**_ 2022 29 (7), 1051-1066. e8.<br>
 [[Abstract]](https://www.sciencedirect.com/science/article/abs/pii/S1934590922002508)
 [[Full Paper]](/resources/publications/2022_CSC_H3K9me3.pdf)
 - **Wang C#**, Chen C#, Liu X#, Li C#, Wu Q, Chen X, Yang L, Kou X, Zhao Y, Wang H, Gao Y\*, Zhang Y\*, Gao S\*. Dynamic nucleosome organization after fertilization reveals regulatory factors for mouse zygotic genome activation. _**Cell Res**_ 2022 0:1-13.<br>
 [[Abstract]](https://www.nature.com/articles/s41422-022-00652-8)
 [[Full Paper]](/resources/publications/2022_CellResearch_Nucleosome.pdf)
-- **Ren P#**, **Shi X#**, **Dong X**, Yu Z, Ding X, **Wang J**, Sun L, Yan Y, Hu J, Zhang P, Chen Q, Li T, **Wang C\***. SELINA: Single-cell Assignment using Multiple-Adversarial Domain Adaptation Network with Large-scale References. _**bioRxiv**_ 2022.01.14.476306
+- Ren P#, Shi X#, Dong X, Yu Z, Ding X, Wang J, Sun L, Yan Y, Hu J, Zhang P, Chen Q, Li T, **Wang C\***. SELINA: Single-cell Assignment using Multiple-Adversarial Domain Adaptation Network with Large-scale References. _**bioRxiv**_ 2022.01.14.476306
 [[Abstract]](https://www.biorxiv.org/content/10.1101/2022.01.14.476306v1.abstract)
 [[Full Paper]](https://www.biorxiv.org/content/10.1101/2022.01.14.476306v1.full.pdf)
 [[Software]](https://github.com/wanglabtongji/SELINA)
@@ -40,7 +48,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 - Wu SZ#, Al-Eryani G#,  Roden DL#, Junankar S, Harvey K, Andersson A, Thennavan A, **Wang C**, Torpy JR, Bartonicek N, Wang T, Larsson L, Kaczorowski D, Weisenfeld NI, Uytingco CR, Chew JG, Bent ZW, Chan C, Gnanasambandapillai V, Dutertre CA, Gluch L, Hui M, Beith J, Parker A, Robbins E, Segara D, Cooper C, Mak C, Chan B, Warrier S, Ginhoux F, Millar E, Powell JE, Williams TR,Liu XS, O'Toole S, Lim E, Lundeberg J, Perou CM, Swarbrick A\*. A single-cell and spatially resolved atlas of human breast cancers. _**Nat Genet**_ 2021 Sep;53(9):1334-1347.<br>
 
 ### 2020
-- **Sun D#**, **Wang J#**, **Han Y#**, **Dong X**, Zheng R, **Ge J**, **Shi X**, Wang B, **Ren P**, Sun L, Yan Y, Zhang P, Zhang F\*, Li T\*, **Wang C\***. TISCH: a comprehensive web resource enabling interactive single-cell transcriptome visualization of tumor microenvironment. _**Nucleic Acids Res**_ 2020 Nov 12:gkaa1020.<br>
+- Sun D#, Wang J#, Han Y#, Dong X, Zheng R, Ge J, Shi X, Wang B, Ren P, Sun L, Yan Y, Zhang P, Zhang F\*, Li T\*, **Wang C\***. TISCH: a comprehensive web resource enabling interactive single-cell transcriptome visualization of tumor microenvironment. _**Nucleic Acids Res**_ 2020 Nov 12:gkaa1020.<br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33179754/)
 [[Full Paper]](/resources/publications/2020_NAR_TISCH.pdf)
 [[Website]](http://tisch.comp-genomics.org/)
