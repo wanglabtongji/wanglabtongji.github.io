@@ -14,7 +14,7 @@ permalink: /news
 - Our single-cell data hub for investigating the normal tissues of human (HUSCH) is accepted by Nucleic Acids Research!
 
 #### September
-- The lab welcomes Ph.D. students Qihang and master student Zhonghua!
+- The lab welcomes Ph.D. student Qihang and master student Zhonghua!
 - Our SCRIP algorithm on inferring gene regulatory networks from scATAC-seq data is published in [Nucleic Acids Research](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac819/6717821?login=false)!
 
 #### August 
