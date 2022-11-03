@@ -25,12 +25,12 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 [[Full Paper]](/resources/publications/2022_GenomeBiology_CCI.pdf)
 [[Software]](https://github.com/wanglabtongji/CCI)
 - Han Y#, Wang Y#, Dong X#, Sun D, Liu Z, Yue J, Wang H, Li T\*, **Wang C\***. TISCH2: expanded datasets and new tools for single-cell transcriptome analyses of the tumor microenvironment. _**Nucleic Acids Res**_ 2022 accepted.<br> 
-[[Abstract]]
-[[Full Paper]]
+[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac959/6793806?login=false)
+[[Full Paper]](/resources/publications/2022_NAR_TISCH.pdf)
 [[Software]](http://tisch.comp-genomics.org/)
 - Shi X#, Yu Z#, Ren P, Dong X, Ding X, Song J, Zhang J, Li T\*, **Wang C\***. HUSCH: an integrated single-cell transcriptome atlas for human tissue gene expression visualization and analyses. _**Nucleic Acids Res**_ 2022 accepted.<br>
-[[Abstract]]
-[[Full Paper]]
+[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac1001/6786201?login=false)
+[[Full Paper]](/resources/publications/2022_NAR_HUSCH.pdf)
 [[Software]](http://husch.comp-genomics.org/)
 - Xu R#, Li S#, Wu Q#, Li C#, Jiang M#, Guo L, Chen M, Yang L, Dong X, Wang H, **Wang C\***, Liu X\*, Ou X\*, Gao S\*. Stage-specific H3K9me3 occupancy ensures retrotransposon silencing in human preimplantation embryos. _**Cell Stem Cell**_ 2022 29 (7), 1051-1066. e8.<br>
 [[Abstract]](https://www.sciencedirect.com/science/article/abs/pii/S1934590922002508)
