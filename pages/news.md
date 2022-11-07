@@ -10,8 +10,8 @@ permalink: /news
 
 #### Oct
 - Our evaluation paper of CCI tools by integrating single-cell and spatial transcriptomic datasets is published in [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02783-y).
-- Our updated single-cell data hub for investigating the tumor microenvironment (TISCH2) is accepted by Nucleic Acids Research! Now it has integrated datasets for 6M cells!
-- Our single-cell data hub for investigating the normal tissues of human (HUSCH) is accepted by Nucleic Acids Research!
+- Our updated single-cell data hub for investigating the tumor microenvironment (TISCH2) is accepted by Nucleic Acids Research! Now it has integrated datasets for 6M cells(https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac959/6793806?login=false)!
+- Our single-cell data hub for investigating the normal tissues of human (HUSCH) is accepted by Nucleic Acids Research(https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac1001/6786201?login=false)!
 
 #### September
 - The lab welcomes Ph.D. student Qihang and master student Zhonghua!
