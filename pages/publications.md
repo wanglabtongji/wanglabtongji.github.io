@@ -10,8 +10,13 @@ permalink: /publications
 Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYAAAAJ&hl=en) for more details.<br>
 \# Co-first authors; \* Co-corresponding authors
 
-### 2022
+### 2023
+- **Han T#**, Wang X#, Shi S, Zhang W, Wang J, **Wu Q**, Li Z, Fu J, Zheng R, Zhang J, Tang Q, Zhang P\*, **Wang C\***. Cancer Cell Resistance to IFNγ Can Occur via Enhanced Double-Strand Break Repair Pathway Activity. _**Cancer Immunol Res**_ 2023 OF1–OF18 <br>
+[[Abstract]](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-22-0056/716422/Cancer-Cell-Resistance-to-IFN-Can-Occur-via)
+[[Full Paper]](/resources/publications/2023_CIR_INFG.pdf)
+- Sahu A#\*, Wang X#, Munson P#, Klomp J, Wang X, Gu S, **Han Y**, Qian G, Nicol P, Zeng Z, **Wang C**, Tokheim C, Zhang W, Fu J, Wang J, Nair N, Rens J, Bourajjaj M, Jansen B, Leenders I, Lemmers J, Musters M, Zanten S, Zelst L, Worthington J, Liu J, Juric D, Meyer C, Oubrie A, Liu X, Fisher D\*, Flaherty K\*. Discovery of Targets for Immune–Metabolic Antitumor Drugs Identifies Estrogen-Related Receptor Alpha. _**Cancer Discov**_ 2023 OF1–OF18 <br>
 
+### 2022
 - **Sun D#**, **Liu Z**, Li T, **Wu Q\***, **Wang C\***. STRIDE: accurately decomposing and integrating spatial transcriptomics using single-cell RNA sequencing. _**Nucleic Acids Res**_ 2022 50 (7), e42-e42.<br>
 [[Abstract]](https://academic.oup.com/nar/article-abstract/50/7/e42/6543547)
 [[Full Paper]](/resources/publications/2022_NAR_STRIDE.pdf)
