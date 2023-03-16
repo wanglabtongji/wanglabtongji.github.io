@@ -8,13 +8,20 @@ permalink: /news
 
 ### 2023
 
+#### March
+- Our SCREE method for single-cell CRISPR-screen data analysis is accepted by Briefings in Bioinformatics!
+- Junjie's paper on identifying key regulatory cell-types in NSCLC neoadjuvent therapy paitents using scRNA-seq is published in [Genome Medicine](https://link.springer.com/article/10.1186/s13073-023-01164-9)! Congrats! 
+
+#### Feb
+- Wanglab attend the 11th Meeting of Bioinformatics and Systems Biology in Guangzhou.
+
 #### Jan
 - Tong's paper on INFG resistance in tumor cells is accepted in [Cancer Immunology Research](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-22-0056/714871/Cancer-Cell-Resistance-to-IFN-Can-Occur-via)! 
 
 ### 2022
 
 #### Nov
-- Dongqing win the 16th Academic pioneer of Tongji University. Congratulations!
+- Dongqing won the 16th Academic pioneer of Tongji University. Congratulations!
 
 #### Oct
 - Our evaluation paper of CCI tools by integrating single-cell and spatial transcriptomic datasets is published in [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02783-y).
