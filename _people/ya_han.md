@@ -10,7 +10,7 @@ website:
 cv: 
 github: 
 linkedin:
-google_scholar: 
+google_scholar: https://scholar.google.com/citations?user=iJLXAEMAAAAJ&hl=en
 twitter: 
 facebook: 
 instagram:
