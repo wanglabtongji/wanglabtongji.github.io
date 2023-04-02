@@ -11,7 +11,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
-- **Wei H#**, **Han T**, Li T, **Wu Q\***, **Wang C\***. STRIDE: accurately decomposing and integrating spatial transcriptomics using single-cell RNA sequencing. _**Brief. Bioinformatics**_ 2023 https://doi.org/10.1093/bib/bbad123.<br>
+- **Wei H#**, **Han T**, Li T, **Wu Q\***, **Wang C\***. SCREE: a comprehensive pipeline for single-cell multi-modal CRISPR screen data processing and analysis. _**Brief. Bioinformatics**_ 2023 https://doi.org/10.1093/bib/bbad123.<br>
 [[Abstract]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad123/7095415?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email)
 [[Full Paper]](/resources/publications/2023_BIB_SCREE.pdf)
 [[Software]](https://github.com/wanglabtongji/SCREE)
