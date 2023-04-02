@@ -11,6 +11,11 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
+- **Wei H#**, **Han T**, Li T, **Wu Q\***, **Wang C\***. STRIDE: accurately decomposing and integrating spatial transcriptomics using single-cell RNA sequencing. _**Brief Bioinformatics**_ 2023 https://doi.org/10.1093/bib/bbad123.<br>
+[[Abstract]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad123/7095415?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email)
+[[Full Paper]](/resources/publications/2023_BIB_SCREE.pdf)
+[[Software]](https://github.com/wanglabtongji/SCREE)
+
 - **Hu J#**, Zhang L#, Xia H#, **Yan Y#**, Zhu X, Sun F, Sun L, Li S, Li D, **Wang J**, **Han Y**, Zhang J, Bian D, Yu H, Chen Y, Fan P, Ma Q, Jiang G, **Wang C\***, Zhang P\*. Tumor microenvironment remodeling after neoadjuvant immunotherapy in non-small cell lung cancer revealed by single-cell RNA sequencing. _**Genome Medicine**_ 2023 15(1):1-14.<br>
 [[Abstract]](https://link.springer.com/article/10.1186/s13073-023-01164-9)
 [[Full Paper]](/resources/publications/2023_GenomeMedicine_NSCLC.pdf)
