@@ -9,7 +9,7 @@ permalink: /news
 ### 2023
 
 #### March
-- Our SCREE method for single-cell CRISPR-screen data analysis is accepted by Briefings in Bioinformatics(https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad123/7095415?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email)!
+- Our SCREE method for single-cell CRISPR-screen data analysis is accepted by [Briefings in Bioinformatics](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad123/7095415?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email)!
 - Junjie's paper on identifying key cell-types in NSCLC neoadjuvent therapy paitents using scRNA-seq is published in [Genome Medicine](https://link.springer.com/article/10.1186/s13073-023-01164-9)! 
 
 #### Feb
