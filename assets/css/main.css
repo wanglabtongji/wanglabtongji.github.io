@@ -146,6 +146,7 @@ img {
 }
 
 .navbar-custom .navbar-brand {
+  font-family: Chalkduster;
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
