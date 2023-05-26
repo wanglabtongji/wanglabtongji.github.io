@@ -11,6 +11,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
+- **Han T#**, Wang X#, Shi S, Zhang W, Wang J, **Wu Q**, Li Z, Fu J, Zheng R, Zhang J, Tang Q, Zhang P\*, **Wang C\***. Cancer Cell Resistance to IFNγ Can Occur via Enhanced Double-Strand Break Repair Pathway Activity. _**Cancer Immunol Res.**_ 2023 11(3):381–398.<br>
+[[Abstract]](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-22-0056/716422/Cancer-Cell-Resistance-to-IFN-Can-Occur-via)
+[[Full Paper]](/resources/publications/2023_CIR_INFG.pdf)
 - **Wei H#**, **Han T**, Li T, **Wu Q\***, **Wang C\***. SCREE: a comprehensive pipeline for single-cell multi-modal CRISPR screen data processing and analysis. _**Brief. Bioinformatics**_ 2023 https://doi.org/10.1093/bib/bbad123.<br>
 [[Abstract]](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad123/7095415?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email)
 [[Full Paper]](/resources/publications/2023_BIB_SCREE.pdf)
@@ -18,9 +21,14 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 - **Hu J#**, Zhang L#, Xia H#, **Yan Y#**, Zhu X, Sun F, Sun L, Li S, Li D, **Wang J**, **Han Y**, Zhang J, Bian D, Yu H, Chen Y, Fan P, Ma Q, Jiang G, **Wang C\***, Zhang P\*. Tumor microenvironment remodeling after neoadjuvant immunotherapy in non-small cell lung cancer revealed by single-cell RNA sequencing. _**Genome Med.**_ 2023 15(1):1-14.<br>
 [[Abstract]](https://link.springer.com/article/10.1186/s13073-023-01164-9)
 [[Full Paper]](/resources/publications/2023_GenomeMedicine_NSCLC.pdf)
-- **Han T#**, Wang X#, Shi S, Zhang W, Wang J, **Wu Q**, Li Z, Fu J, Zheng R, Zhang J, Tang Q, Zhang P\*, **Wang C\***. Cancer Cell Resistance to IFNγ Can Occur via Enhanced Double-Strand Break Repair Pathway Activity. _**Cancer Immunol Res.**_ 2023 11(3):381–398.<br>
-[[Abstract]](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-22-0056/716422/Cancer-Cell-Resistance-to-IFN-Can-Occur-via)
-[[Full Paper]](/resources/publications/2023_CIR_INFG.pdf)
+- **Han Y#**, **Wang Y#**, **Dong X#**, **Sun D**, **Liu Z**, **Yue J**, Wang H, Li T\*, **Wang C\***. TISCH2: expanded datasets and new tools for single-cell transcriptome analyses of the tumor microenvironment. _**Nucleic Acids Res.**_ 2023 51(D1):D1425-D1431.<br> 
+[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac959/6793806?login=false)
+[[Full Paper]](/resources/publications/2022_NAR_TISCH.pdf)
+[[Software]](http://tisch.comp-genomics.org/)
+- **Shi X#**, Yu Z#, **Ren P**, **Dong X**, Ding X, Song J, Zhang J, Li T\*, **Wang C\***. HUSCH: an integrated single-cell transcriptome atlas for human tissue gene expression visualization and analyses. _**Nucleic Acids Res.**_ 2023 51(D1):D1029-D1037.<br>
+[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac1001/6786201?login=false)
+[[Full Paper]](/resources/publications/2022_NAR_HUSCH.pdf)
+[[Software]](http://husch.comp-genomics.org/)
 - Sahu A#\*, Wang X#, Munson P#, Klomp J, Wang X, Gu S, **Han Y**, Qian G, Nicol P, Zeng Z, **Wang C**, Tokheim C, Zhang W, Fu J, Wang J, Nair N, Rens J, Bourajjaj M, Jansen B, Leenders I, Lemmers J, Musters M, Zanten S, Zelst L, Worthington J, Liu J, Juric D, Meyer C, Oubrie A, Liu X, Fisher D\*, Flaherty K\*. Discovery of Targets for Immune–Metabolic Antitumor Drugs Identifies Estrogen-Related Receptor Alpha. _**Cancer Discov.**_ 2023 13(3):672-701.<br>
 
 ### 2022
@@ -36,14 +44,6 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 [[Abstract]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02783-y)
 [[Full Paper]](/resources/publications/2022_GenomeBiology_CCI.pdf)
 [[Software]](https://github.com/wanglabtongji/CCI)
-- **Han Y#**, **Wang Y#**, **Dong X#**, **Sun D**, **Liu Z**, **Yue J**, Wang H, Li T\*, **Wang C\***. TISCH2: expanded datasets and new tools for single-cell transcriptome analyses of the tumor microenvironment. _**Nucleic Acids Res.**_ 2022 51(D1):D1425-D1431.<br> 
-[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac959/6793806?login=false)
-[[Full Paper]](/resources/publications/2022_NAR_TISCH.pdf)
-[[Software]](http://tisch.comp-genomics.org/)
-- **Shi X#**, Yu Z#, **Ren P**, **Dong X**, Ding X, Song J, Zhang J, Li T\*, **Wang C\***. HUSCH: an integrated single-cell transcriptome atlas for human tissue gene expression visualization and analyses. _**Nucleic Acids Res.**_ 2022 51(D1):D1029-D1037.<br>
-[[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac1001/6786201?login=false)
-[[Full Paper]](/resources/publications/2022_NAR_HUSCH.pdf)
-[[Software]](http://husch.comp-genomics.org/)
 - Xu R#, Li S#, Wu Q#, Li C#, Jiang M#, Guo L, Chen M, Yang L, Dong X, Wang H, **Wang C\***, Liu X\*, Ou X\*, Gao S\*. Stage-specific H3K9me3 occupancy ensures retrotransposon silencing in human preimplantation embryos. _**Cell Stem Cell**_ 2022 29(7):1051-1066.<br>
 [[Abstract]](https://www.sciencedirect.com/science/article/abs/pii/S1934590922002508)
 [[Full Paper]](/resources/publications/2022_CSC_H3K9me3.pdf)
