@@ -10,6 +10,8 @@ permalink: /news
 
 #### May
 - Jiali's collaboration on charting the cervical cancer immune landscapes by scRNA-seq and scTCR-seq is accepted by The EMBO Journal!
+- Wang Lab and Gao Lab went on a trip to Xishan Island.
+- Tong Han and Jiali Yue successfully defended their Ph.D. and master thesis, respectively. Congratulations!
 
 #### March
 - Our SCREE method for single-cell CRISPR-screen data analysis is accepted by [Briefings in Bioinformatics](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbad123/7095415?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email)!
