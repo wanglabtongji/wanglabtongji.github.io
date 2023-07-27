@@ -9,7 +9,7 @@ permalink: /news
 ### 2023
 
 #### May
-- Jiali's collaboration on charting the cervical cancer immune landscapes by scRNA-seq and scTCR-seq is accepted by The EMBO Journal!
+- Jiali's collaboration on charting the cervical cancer immune landscapes by scRNA-seq and scTCR-seq is accepted by [The EMBO Journal](https://www.embopress.org/doi/abs/10.15252/embj.2022110757)! 
 - Wang Lab and Gao Lab went on a trip to Xishan Island.
 - Tong Han and Jiali Yue successfully defended their Ph.D. and master thesis, respectively. Congratulations!
 

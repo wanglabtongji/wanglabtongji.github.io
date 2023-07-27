@@ -21,6 +21,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 - **Hu J#**, Zhang L#, Xia H#, **Yan Y#**, Zhu X, Sun F, Sun L, Li S, Li D, **Wang J**, **Han Y**, Zhang J, Bian D, Yu H, Chen Y, Fan P, Ma Q, Jiang G, **Wang C\***, Zhang P\*. Tumor microenvironment remodeling after neoadjuvant immunotherapy in non-small cell lung cancer revealed by single-cell RNA sequencing. _**Genome Med.**_ 2023 15(1):1-14.<br>
 [[Abstract]](https://link.springer.com/article/10.1186/s13073-023-01164-9)
 [[Full Paper]](/resources/publications/2023_GenomeMedicine_NSCLC.pdf)
+- Cao G#, **Yue J#**, Ruan Y#, **Han Y**, Zhi Y, Lu J, Liu M, Xu X, Wang J, Gu Q, Wen X, Gao J, Kang J, Zhang Q, **Wang C*\***, Li F\*. Single-cell Dissection of Cervical Cancer Reveals Key Subsets of the Tumor Immune Microenvironment. _**EMBO J.**_ 2023; accepted. <br>
+[[Abstract]](https://www.embopress.org/doi/abs/10.15252/embj.2022110757)
+[[Full Paper]](/resources/publications/2023_EMBOJ_CESC.pdf)
 - **Han Y#**, **Wang Y#**, **Dong X#**, **Sun D**, **Liu Z**, **Yue J**, Wang H, Li T\*, **Wang C\***. TISCH2: expanded datasets and new tools for single-cell transcriptome analyses of the tumor microenvironment. _**Nucleic Acids Res.**_ 2023 51(D1):D1425-D1431.<br> 
 [[Abstract]](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac959/6793806?login=false)
 [[Full Paper]](/resources/publications/2022_NAR_TISCH.pdf)
