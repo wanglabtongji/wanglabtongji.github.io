@@ -20,8 +20,8 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 [[Software]](https://github.com/wanglabtongji/SCREE)
 - **Hu J#**, Zhang L#, Xia H#, **Yan Y#**, Zhu X, Sun F, Sun L, Li S, Li D, **Wang J**, **Han Y**, Zhang J, Bian D, Yu H, Chen Y, Fan P, Ma Q, Jiang G, **Wang C\***, Zhang P\*. Tumor microenvironment remodeling after neoadjuvant immunotherapy in non-small cell lung cancer revealed by single-cell RNA sequencing. _**Genome Med.**_ 2023 15(1):1-14.<br>
 [[Abstract]](https://link.springer.com/article/10.1186/s13073-023-01164-9)
-[[Full Paper]](/resources/publications/2023_GenomeMedicine_NSCLC.pdf)
-- Cao G#, **Yue J#**, Ruan Y#, **Han Y**, Zhi Y, Lu J, Liu M, Xu X, Wang J, Gu Q, Wen X, Gao J, Kang J, Zhang Q, **Wang C*\***, Li F\*. Single-cell Dissection of Cervical Cancer Reveals Key Subsets of the Tumor Immune Microenvironment. _**EMBO J.**_ 2023; accepted. <br>
+[[Full Paper]](/resources/publications/2023_GM_NSCLC.pdf)
+- Cao G#, **Yue J#**, Ruan Y#, **Han Y**, Zhi Y, Lu J, Liu M, Xu X, Wang J, Gu Q, Wen X, Gao J, Kang J, Zhang Q, **Wang C\***, Li F\*. Single-cell Dissection of Cervical Cancer Reveals Key Subsets of the Tumor Immune Microenvironment. _**EMBO J.**_ 2023; accepted. <br>
 [[Abstract]](https://www.embopress.org/doi/abs/10.15252/embj.2022110757)
 [[Full Paper]](/resources/publications/2023_EMBOJ_CESC.pdf)
 - **Han Y#**, **Wang Y#**, **Dong X#**, **Sun D**, **Liu Z**, **Yue J**, Wang H, Li T\*, **Wang C\***. TISCH2: expanded datasets and new tools for single-cell transcriptome analyses of the tumor microenvironment. _**Nucleic Acids Res.**_ 2023 51(D1):D1425-D1431.<br> 
@@ -45,14 +45,14 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 [[Software]](https://github.com/wanglabtongji/SRIP)
 - **Liu Z#**, **Sun D**, **Wang C\***. Evaluation of cell-cell interaction methods by integrating single-cell RNA sequencing data with spatial information. _**Genome Biol.**_ 2022 23(1):1-38.<br> 
 [[Abstract]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02783-y)
-[[Full Paper]](/resources/publications/2022_GenomeBiology_CCI.pdf)
+[[Full Paper]](/resources/publications/2022_GB_CCI.pdf)
 [[Software]](https://github.com/wanglabtongji/CCI)
 - Xu R#, Li S#, Wu Q#, Li C#, Jiang M#, Guo L, Chen M, Yang L, Dong X, Wang H, **Wang C\***, Liu X\*, Ou X\*, Gao S\*. Stage-specific H3K9me3 occupancy ensures retrotransposon silencing in human preimplantation embryos. _**Cell Stem Cell**_ 2022 29(7):1051-1066.<br>
 [[Abstract]](https://www.sciencedirect.com/science/article/abs/pii/S1934590922002508)
 [[Full Paper]](/resources/publications/2022_CSC_H3K9me3.pdf)
 - **Wang C#**, Chen C#, Liu X#, Li C#, Wu Q, Chen X, Yang L, Kou X, Zhao Y, Wang H, Gao Y\*, Zhang Y\*, Gao S\*. Dynamic nucleosome organization after fertilization reveals regulatory factors for mouse zygotic genome activation. _**Cell Res.**_ 2022 32(9):801-813.<br>
 [[Abstract]](https://www.nature.com/articles/s41422-022-00652-8)
-[[Full Paper]](/resources/publications/2022_CellResearch_Nucleosome.pdf)
+[[Full Paper]](/resources/publications/2022_CR_Nucleosome.pdf)
 - **Ren P#**, **Shi X#**, **Dong X**, Yu Z, Ding X, Wang J, Sun L, Yan Y, Hu J, Zhang P, Chen Q, Li T, **Wang C\***. SELINA: Single-cell Assignment using Multiple-Adversarial Domain Adaptation Network with Large-scale References. _**bioRxiv**_ 2022.01.14.476306
 [[Abstract]](https://www.biorxiv.org/content/10.1101/2022.01.14.476306v1.abstract)
 [[Full Paper]](https://www.biorxiv.org/content/10.1101/2022.01.14.476306v1.full.pdf)
@@ -69,7 +69,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 [[Website]](http://tisch.comp-genomics.org/)
 - **Wang C#**, **Sun D#**, Huang X, Wan C, Li Z, **Han Y**, Qin Q, Fan J, Qiu X, Xie Y, Meyer CA, Brown M, Tang M, Long H, Liu T\*, Liu XS\*. Integrative analyses of single-cell transcriptome and regulome using MAESTRO. _**Genome Biol.**_ 2020 21(1):1-28.<br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32767996)
-[[Full Paper]](/resources/publications/2020_GenomeBiology_MAESTRO.pdf)
+[[Full Paper]](/resources/publications/2020_GB_MAESTRO.pdf)
 [[Software]](http://github.com/liulab-dfci/MAESTRO)
 - Burton A, Brochard V, Galan C, Ruiz-Morales E, Rovira Q, Rodriguez-Terrones D, Kruse K, Gras S, Udayakumar V, Chin H, Eid A, Liu X, **Wang C**, Gao S, Pradhan S, Vaquerizas J, Beaujean N, Jenuwein T, Torres-Padilla M. Heterochromatin establishment during early mammalian development is regulated by pericentromeric RNA and characterized by non-repressive H3K9me3. _**Nat. Cell Biol.**_ 2020 22(7):767-778.<br>
 - Wu SZ#, Roden D#, **Wang C**, Holliday H, Harvery K, Cazet AS, Murphy KJ, Pereira B, Al-Eryani G, Bartonicek N, Hou R, Torpy JR, Junankar S, Chan C, Lam CE, Hui M, Gluch L, Beith J, Parker A, Robbins E, Segara D, Mark C, Cooper C, Warrier S, Forrest A, Powell J, O’Toole S, Cox TR, Timpson P, Lim E, Liu XS, Swarbrick A\*. Stromal cell diversity associated with immune evasion in human triple-negative breast cancer. _**EMBO J.**_ 2020 39(19):e104063.<br>
@@ -87,7 +87,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 [[Full Paper]](/resources/publications/2016_Nature_H3K4me3H3K27me3.pdf)
 - Liu W#, Liu X#, **Wang C#**, Gao Y#, Gao R, Kou X, Zhao Y, Li J, Wu Y, Xiu W, Wang S, Yin J, Liu W, Cai T, Wang H, Zhang Y\*, Gao S\*. Identification of key factors conquering developmental arrest of somatic cell cloned embryos by combining embryo biopsy and single-cell sequencing. _**Cell Discov.**_ 2016 2(1):1-15.<br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/27462457)
-[[Full Paper]](/resources/publications/2016_CellDiscovery_NTexpr.pdf)
+[[Full Paper]](/resources/publications/2016_CD_NTexpr.pdf)
 - Xu K#, Chen X#, Yang H, Xu Y, He Y, **Wang C**, Huang H, Liu B, Liu W, Li J, Kou X, Zhao Y, Zhao K, Zhang L, Hou Z, Wang H, Wang H, Li J, Fan H, Wang F, Gao Y, Zhang Y, Chen J\*, Gao S\*. Maternal Sall4 is indispensable for epigenetic maturation of mouse oocytes. _**J. Biol. Chem.**_ 2017; 292:1798-1807.<br>
 - Wang Y, Wu Q, Yang P, **Wang C**, Liu J, Ding W, Liu W, Bai Y, Yang Y, Wang H, Gao S\*, Wang X\*. LSD1 co-repressor Rcor2 orchestrates neurogenesis in the developing mouse brain. _**Nat. Commun.**_ 2016; 7:10481.<br>
 - Xu H#, Xu K#, He HH, Zang C, Chen CH, Chen Y, Qin Q, Wang S, **Wang C**, Hu S, Li F, Long H, Brown M\*, Liu XS\*. Integrative analysis reveals the transcriptional collaboration between EZH2 and E2F1 in the regulation of cancer-related gene expression. _**Mol. Cancer Res.**_ 2016;14(2):163-72.<br>
