@@ -8,6 +8,10 @@ permalink: /news
 
 ### 2023
 
+#### Aug
+- Our SELINA method for automatically annotate cell-types using deep-learning and large-scale references is accepted by Cell Reports Methods! Congrats!
+- Wang lab held the fourth Bioinformatics summer training on deep-learning successfully!
+
 #### May
 - Jiali's collaboration on charting the cervical cancer immune landscapes by scRNA-seq and scTCR-seq is accepted by [The EMBO Journal](https://www.embopress.org/doi/abs/10.15252/embj.2022110757)! 
 - Wang Lab and Gao Lab went on a trip to Xishan Island.
@@ -87,9 +91,6 @@ permalink: /news
 #### October
 - Wang lab held a team building at Chongming Island.
 - Chenfei had his first baby boy. Congrats!
-
-#### September
-- The lab welcomes Ph.D. students Hailin Wei and Yihan Xiao, and research assistant Tao Chen!
 
 #### August
 - Wang lab held the first online Bioinformatics summer training successfully!
