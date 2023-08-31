@@ -9,7 +9,7 @@ permalink: /news
 ### 2023
 
 #### Aug
-- Our SELINA method for automatically annotate cell-types using deep-learning and large-scale references is accepted by Cell Reports Methods! Congrats!
+- Our SELINA method for automatically annotate cell-types using deep-learning and large-scale references is accepted by [Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00221-7)! Congrats!
 - Wang lab held the fourth Bioinformatics summer training on deep-learning successfully!
 
 #### May

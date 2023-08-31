@@ -11,6 +11,10 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
+- **Ren P#**, **Shi X#**, **Dong X**, Yu Z, Ding X, Wang J, Sun L, Yan Y, Hu J, Zhang P, Chen Q, Li T, **Wang C\***. SELINA: Single-cell Assignment using Multiple-Adversarial Domain Adaptation Network with Large-scale References. _**bioRxiv**_ 2022.01.14.476306
+[[Abstract]](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00221-7)
+[[Full Paper]](/resources/publications/2023_CRM_SELINA.pdf)
+[[Software]](https://github.com/wanglabtongji/SELINA.py)
 - **Han T#**, Wang X#, Shi S, Zhang W, Wang J, **Wu Q**, Li Z, Fu J, Zheng R, Zhang J, Tang Q, Zhang P\*, **Wang C\***. Cancer Cell Resistance to IFNγ Can Occur via Enhanced Double-Strand Break Repair Pathway Activity. _**Cancer Immunol Res.**_ 2023 11(3):381–398.<br>
 [[Abstract]](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-22-0056/716422/Cancer-Cell-Resistance-to-IFN-Can-Occur-via)
 [[Full Paper]](/resources/publications/2023_CIR_INFG.pdf)
@@ -53,10 +57,6 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 - **Wang C#**, Chen C#, Liu X#, Li C#, Wu Q, Chen X, Yang L, Kou X, Zhao Y, Wang H, Gao Y\*, Zhang Y\*, Gao S\*. Dynamic nucleosome organization after fertilization reveals regulatory factors for mouse zygotic genome activation. _**Cell Res.**_ 2022 32(9):801-813.<br>
 [[Abstract]](https://www.nature.com/articles/s41422-022-00652-8)
 [[Full Paper]](/resources/publications/2022_CR_Nucleosome.pdf)
-- **Ren P#**, **Shi X#**, **Dong X**, Yu Z, Ding X, Wang J, Sun L, Yan Y, Hu J, Zhang P, Chen Q, Li T, **Wang C\***. SELINA: Single-cell Assignment using Multiple-Adversarial Domain Adaptation Network with Large-scale References. _**bioRxiv**_ 2022.01.14.476306
-[[Abstract]](https://www.biorxiv.org/content/10.1101/2022.01.14.476306v1.abstract)
-[[Full Paper]](https://www.biorxiv.org/content/10.1101/2022.01.14.476306v1.full.pdf)
-[[Software]](https://github.com/wanglabtongji/SELINA)
 
 ### 2021
 - Zhang H#, Song L#, Wang X, Cheng H, **Wang C**, Meyer CA, Liu T, Tang M, Aluru S, Yue F, Liu XS\*, Li H\*. Fast alignment and preprocessing of chromatin profiles with Chromap. _**Nat. Commun.**_ 2021 12(1):6566.<br>	
