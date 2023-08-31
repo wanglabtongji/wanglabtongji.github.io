@@ -11,7 +11,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2023
-- **Ren P#**, **Shi X#**, **Dong X**, Yu Z, Ding X, Wang J, Sun L, Yan Y, Hu J, Zhang P, Chen Q, Li T, **Wang C\***. SELINA: Single-cell Assignment using Multiple-Adversarial Domain Adaptation Network with Large-scale References. _**bioRxiv**_ 2022.01.14.476306
+- **Ren P#**, **Shi X#**, **Dong X**, Yu Z, Ding X, Wang J, Sun L, Yan Y, Hu J, Zhang P, Chen Q, Li T, **Wang C\***. SELINA: Single-cell Assignment using Multiple-Adversarial Domain Adaptation Network with Large-scale References. _**Cell Rep. Methods**_ accepted.<br>
 [[Abstract]](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00221-7)
 [[Full Paper]](/resources/publications/2023_CRM_SELINA.pdf)
 [[Software]](https://github.com/wanglabtongji/SELINA.py)
@@ -25,7 +25,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 - **Hu J#**, Zhang L#, Xia H#, **Yan Y#**, Zhu X, Sun F, Sun L, Li S, Li D, **Wang J**, **Han Y**, Zhang J, Bian D, Yu H, Chen Y, Fan P, Ma Q, Jiang G, **Wang C\***, Zhang P\*. Tumor microenvironment remodeling after neoadjuvant immunotherapy in non-small cell lung cancer revealed by single-cell RNA sequencing. _**Genome Med.**_ 2023 15(1):1-14.<br>
 [[Abstract]](https://link.springer.com/article/10.1186/s13073-023-01164-9)
 [[Full Paper]](/resources/publications/2023_GM_NSCLC.pdf)
-- Cao G#, **Yue J#**, Ruan Y#, **Han Y**, Zhi Y, Lu J, Liu M, Xu X, Wang J, Gu Q, Wen X, Gao J, Kang J, Zhang Q, **Wang C\***, Li F\*. Single-cell Dissection of Cervical Cancer Reveals Key Subsets of the Tumor Immune Microenvironment. _**EMBO J.**_ 2023; accepted. <br>
+- Cao G#, **Yue J#**, Ruan Y#, **Han Y**, Zhi Y, Lu J, Liu M, Xu X, Wang J, Gu Q, Wen X, Gao J, Kang J, Zhang Q, **Wang C\***, Li F\*. Single-cell Dissection of Cervical Cancer Reveals Key Subsets of the Tumor Immune Microenvironment. _**EMBO J.**_ 2023; 42:e110757. <br>
 [[Abstract]](https://www.embopress.org/doi/abs/10.15252/embj.2022110757)
 [[Full Paper]](/resources/publications/2023_EMBOJ_CESC.pdf)
 - **Han Y#**, **Wang Y#**, **Dong X#**, **Sun D**, **Liu Z**, **Yue J**, Wang H, Li T\*, **Wang C\***. TISCH2: expanded datasets and new tools for single-cell transcriptome analyses of the tumor microenvironment. _**Nucleic Acids Res.**_ 2023 51(D1):D1425-D1431.<br> 
