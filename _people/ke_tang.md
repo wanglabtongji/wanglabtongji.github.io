@@ -4,8 +4,8 @@ layout: people
 permalink: /people/ke_tang
 status: Student
 pname: Ke Tang
-position: Master student in Bioinformatics
-eml: 
+position: PhD student in Bioinformatics
+eml: cocot@tongji.edu.cn
 website: 
 cv: 
 github: 

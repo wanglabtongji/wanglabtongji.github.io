@@ -8,11 +8,26 @@ permalink: /news
 
 ### 2023
 
+#### Dec
+- Wang lab held the New Year's Eve party together. Embrace the brand new 2024!
+- Xin won the 17th Academic Pioneer of Tongji University. Congratulations!
+- The lab organized the 10th YBP at Tongji University.
+- The lab attened CSHA meeting, Frontiers in Single-cells at Suzhou.
+
+#### Oct
+- Chenfei is invited to speak at CSHA meeting, Systems Biology of Gene Regulation and Genome Editing.
+- Chenfei is awarded as Young Rising Star Award from Shanghai Bioinformatics Society. Congrats!
+- The lab went on a trip to Suzhou! 
+
+#### Sep
+- The lab welcomes Ph.D. student Tianrui, master student Wenwen, and rotation student Xinwei!
+
 #### Aug
 - Our SELINA method for automatically annotate cell-types using deep-learning and large-scale references is accepted by [Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00221-7)! Congrats!
 - Wang lab held the fourth Bioinformatics summer training on deep-learning successfully!
 
 #### May
+- Luzhang Ji has joined the lab as a postdoc. Welcome Dr.Ji!
 - Jiali's collaboration on charting the cervical cancer immune landscapes by scRNA-seq and scTCR-seq is accepted by [The EMBO Journal](https://www.embopress.org/doi/abs/10.15252/embj.2022110757)! 
 - Wang Lab and Gao Lab went on a trip to Xishan Island.
 - Tong Han and Jiali Yue successfully defended their Ph.D. and master thesis, respectively. Congratulations!
@@ -91,6 +106,9 @@ permalink: /news
 #### October
 - Wang lab held a team building at Chongming Island.
 - Chenfei had his first baby boy. Congrats!
+
+#### September
+- The lab welcomes Ph.D. students Hailin and Yihan, master student Jiali!
 
 #### August
 - Wang lab held the first online Bioinformatics summer training successfully!

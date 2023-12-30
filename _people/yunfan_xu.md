@@ -5,7 +5,7 @@ permalink: /people/yunfan_xu
 status: Student
 pname: Yunfan Xu
 position: Master student in Bioinformatics
-eml: 
+eml: 2131456@tongji.edu.cn
 website: 
 cv: 
 github: 

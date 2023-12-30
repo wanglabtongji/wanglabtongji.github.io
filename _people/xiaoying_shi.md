@@ -5,7 +5,7 @@ permalink: /people/xiaoying_shi
 status: Collaborating Student
 pname: Xiaoying Shi
 position: PhD student in Bioinformatics
-eml: 
+eml: bioinfo_sxy@tongji.edu.cn
 website: 
 cv: 
 github: 

@@ -5,7 +5,7 @@ permalink: /people/qihang_zou
 status: Student
 pname: Qihang Zou
 position: Phd student in Bioinformatics
-eml: 
+eml: chonghai@tongji.edu.cn
 website: 
 cv: 
 github: 

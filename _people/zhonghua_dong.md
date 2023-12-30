@@ -5,7 +5,7 @@ permalink: /people/zhonghua_dong
 status: Student
 pname: Zhonghua Dong
 position: Master student in Bioinformatics
-eml: 
+eml: dongzhonghua@tongji.edu.cn
 website: 
 cv: 
 github: 

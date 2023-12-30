@@ -5,7 +5,7 @@ permalink: /people/hailin_wei
 status: Student
 pname: Hailin Wei
 position: PhD student in Bioinformatics
-eml: 2011421@tongji.edu.cn
+eml: hailinwei98@gmail.com
 website: 
 cv: 
 github: 

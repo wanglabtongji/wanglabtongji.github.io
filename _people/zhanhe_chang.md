@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Zhanhe received her bachelor's degree in Bioinformatics from Tianjin Medical University in 2020. Her research focuses on embryo development by using single cell and spatial multi-omics technologies. Recently, she's working on developing a multi-omics pipeline named MultiSpace which integrated RNA Expression, DNA methylation and Chromatin Accessibility analysis.
+desp: Zhanhe received her bachelor's degree in Bioinformatics from Tianjin Medical University in 2020. Her research focuses on embryo development by using single cell and spatial multi-omics technologies. Recently, she's working on developing a multi-omics pipeline named SPRINT which integrated RNA Expression, DNA methylation and Chromatin Accessibility analysis in space.
 ---

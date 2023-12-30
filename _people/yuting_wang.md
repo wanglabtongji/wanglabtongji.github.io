@@ -5,7 +5,7 @@ permalink: /people/yuting_wang
 status: Student
 pname: Yuting Wang
 position: PhD student in Bioinformatics
-eml: 
+eml: ytwang21@tongji.edu.cn
 website: 
 cv: 
 github: 

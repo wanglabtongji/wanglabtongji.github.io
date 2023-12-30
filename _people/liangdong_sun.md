@@ -5,7 +5,7 @@ permalink: /people/liangdong_sun
 status: Collaborating Student
 pname: Liangdong Sun
 position: MD student
-eml: 
+eml: 1831245@tongji.edu.cn
 website: 
 cv: 
 github: 

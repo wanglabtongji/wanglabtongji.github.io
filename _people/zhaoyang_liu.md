@@ -5,7 +5,7 @@ permalink: /people/zhaoyang_liu
 status: Student
 pname: Zhaoyang Liu
 position: PhD student in Bioinformatics
-eml: 
+eml: laputaliu@tongji.edu.cn
 website: 
 cv: 
 github: 
