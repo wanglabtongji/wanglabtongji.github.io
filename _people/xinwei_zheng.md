@@ -5,7 +5,7 @@ permalink: /people/xinwei_zheng
 status: Student
 pname: Xinwei Zheng 
 position: PhD student in Bioinformatics
-eml: 
+eml: xinwzheng@163.com
 website: 
 cv: 
 github:
@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: 
+desp: Xinwei Zheng is currently studying biotechnology at Tongji University.Her current research focuses on training large language models based on single-cell data.
 ---
