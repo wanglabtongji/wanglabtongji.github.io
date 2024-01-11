@@ -25,7 +25,9 @@ permalink: /software/
 (Single-cell CRISPR screen data analysEs and perturbation modEling) is a workflow to perform quality control and analyses of multimodal single-cell CRISPR screen datasets.
 
 #### Spatial Multiomics
+- [**Cellist**](https://github.com/wanglabtongji/Cellist) &nbsp;
+(Cell identification in high-resolution Spatial Transcriptomics) Cellist is a computational method for accurate cell segmentation and signal enhancement on high-resolution spatial transcriptomics.
 - [**STRIDE**](https://github.com/wanglabtongji/STRIDE) &nbsp;
-(Spatial TRanscrIptomics DEconvolution by topic modeling) is a topic-model-based deconvolution method for spatial transcriptomics by integrating with scRNA-seq.
+(Spatial TRanscrIptomics DEconvolution by topic modeling) is a topic-model-based deconvolution method for low-resolution spatial transcriptomics by integrating with scRNA-seq.
 - [**CCI**](https://github.com/wanglabtongji/CCI) &nbsp;
 Benchmarking of CCI prediction tools based on the integration of single-cell and spatial transcriptomic data.
