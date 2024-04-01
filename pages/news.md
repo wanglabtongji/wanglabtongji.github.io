@@ -6,6 +6,11 @@ permalink: /news
 
 # News and Events
 
+### 2024
+
+#### Jan
+- Our collaboration on defining SCLC subtypes using proteogenomics is published in [Cell](https://www.cell.com/cell/pdf/S0092-8674(23)01335-1.pdf)! Congrats!
+
 ### 2023
 
 #### Dec
