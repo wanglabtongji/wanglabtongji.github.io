@@ -8,8 +8,12 @@ permalink: /news
 
 ### 2024
 
+#### Mar
+- Ya Han successfully defended her Ph.D. thesis and continued her postdoc research in the lab. Congratulations Dr. Han!
+- Our review on Single-Cell Omics: experimental workflow, data analyses and applications is accepted by Science China Life Sciences.
+
 #### Jan
-- Our collaboration on defining SCLC subtypes using proteogenomics is published in [Cell](https://www.cell.com/cell/pdf/S0092-8674(23)01335-1.pdf)! Congrats!
+- Our collaboration on defining small cell lung cancer (SCLC) subtypes using proteogenomics is published in [Cell](https://www.cell.com/cell/pdf/S0092-8674(23)01335-1.pdf)! Congrats!
 
 ### 2023
 
@@ -17,7 +21,7 @@ permalink: /news
 - Wang lab held the New Year's Eve party together. Embrace the brand new 2024!
 - Xin won the 17th Academic Pioneer of Tongji University. Congratulations!
 - The lab organized the 10th YBP at Tongji University.
-- The lab attened CSHA meeting, Frontiers in Single-cells at Suzhou.
+- The lab attened CSHA meeting, Frontiers in Single-cells at Suzhou. Chenfei gave oral presentations.
 
 #### Oct
 - Chenfei is invited to speak at CSHA meeting, Systems Biology of Gene Regulation and Genome Editing.
