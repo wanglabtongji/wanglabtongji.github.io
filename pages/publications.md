@@ -11,6 +11,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
+- Sun F#, Li H#, Sun D#, Fu S#, Gu L#, Shao X#, Wang Q#, Dong X#, Duan B#, Xing F#, Wu J#, Xiao M\*, Zhao F\*, Han J\*, Liu Q\*, Fan X\*, Li C\*, **Wang C\***, Shi T\*. Single- Cell Omics: experimental workflow, data analyses and applications. _**Sci. China Life Sci.**_ 2024; Advanced online.<br>
+[[Abstract]](https://www.sciengine.com/SCLS/doi/10.1007/s11427-023-2561-0;JSESSIONID=7b2d6e31-7cb2-46e4-ac9e-d8006970d173)
+[[Full Paper]](/resources/publications/2024_SCLS_SCReview.pdf)
 - Liu Q#, Zhang J#, Guo C#, Wang M#, **Wang C#**, Yan Y, Sun L, Wang D, Zhang L, Yu H, Hou L, Wu C, Zhu Y, Jiang G, Zhu H, Zhou Y, Fang S, Zhang T, Hu L, Li J, Liu Y, Zhang H, Zhang B, Ding L, Robles A, Rodriguez H, Gao D\*, Ji H\*, Zhou H\*, Zhang P\*. Proteogenomic characterization of small cell lung cancer identifies biological insights and subtype-specific therapeutic strategies. _**Cell**_ 2024; 187 (1), 184-203.<br>
 [[Abstract]](https://www.cell.com/cell/pdf/S0092-8674(23)01335-1.pdf)
 [[Full Paper]](/resources/publications/2024_Cell_SCLC.pdf)

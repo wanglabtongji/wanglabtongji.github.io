@@ -10,7 +10,7 @@ permalink: /news
 
 #### Mar
 - Ya Han successfully defended her Ph.D. thesis and continued her postdoc research in the lab. Congratulations Dr. Han!
-- Our review on Single-Cell Omics: experimental workflow, data analyses and applications is accepted by Science China Life Sciences.
+- Our review on Single-Cell Omics: experimental workflow, data analyses and applications is accepted by [Science China Life Sciences](https://www.sciengine.com/SCLS/doi/10.1007/s11427-023-2561-0;JSESSIONID=7b2d6e31-7cb2-46e4-ac9e-d8006970d173).
 
 #### Jan
 - Our collaboration on defining small cell lung cancer (SCLC) subtypes using proteogenomics is published in [Cell](https://www.cell.com/cell/pdf/S0092-8674(23)01335-1.pdf)! Congrats!
