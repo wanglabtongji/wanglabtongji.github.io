@@ -22,6 +22,7 @@ permalink: /news
 #### Jan
 - Our collaboration on defining small cell lung cancer (SCLC) subtypes using proteogenomics is published in [Cell](https://www.cell.com/cell/pdf/S0092-8674(23)01335-1.pdf)! Congrats!
 
+
 ### 2023
 
 #### Dec
@@ -58,6 +59,7 @@ permalink: /news
 #### Jan
 - Tong's paper on INFG resistance in tumor cells is accepted in [Cancer Immunology Research](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-22-0056/714871/Cancer-Cell-Resistance-to-IFN-Can-Occur-via)! 
 
+
 ### 2022
 
 #### Nov
@@ -83,6 +85,7 @@ permalink: /news
 #### February
 - Our STRIDE paper for spatial transcriptomics deconvolution analyses is accepted by [Nucleic Acids Research](https://academic.oup.com/nar/article/50/7/e42/6543547)!
 - Chenfei's collaboration of nucleosome establishment and remodeling in mouse pronucleus is accepted by [Cell Research](https://www.nature.com/articles/s41422-022-00652-8)!
+
 
 ### 2021
 

@@ -11,7 +11,7 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
-- **Chang Z#**, **Xu Y#**, **Dong X**, Gao Y, **Wang C\***. Single-cell and spatial multiomic inference of gene regulatory networks using SCRIPro.<br>
+- **Chang Z#**, **Xu Y#**, **Dong X**, Gao Y, **Wang C\***. Single-cell and spatial multiomic inference of gene regulatory networks using SCRIPro._**Bioinform.**_ 2024; Advanced online.<br>
 [[Abstract]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btae466/7716542?utm_source=advanceaccess&utm_campaign=bioinformatics&utm_medium=email)
 [[Full Paper]](/resources/publications/2024_Bioinform_SCRIPro)
 [[Software]](https://github.com/wanglabtongji/SCRIPro)
