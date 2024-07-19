@@ -8,6 +8,13 @@ permalink: /news
 
 ### 2024
 
+#### July
+- Our SCRIPro method for inferring gene regulatory networks from single-cell or spatial multiome data is published in [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btae466/7716542?utm_source=advanceaccess&utm_campaign=bioinformatics&utm_medium=email)!
+
+#### May
+- Yunfan Xu successfully defended hist master thesis. Congratulations!
+- The lab attended Ya Han's Wedding, congratulations on her wedding and wish her a lifetime of happiness and love!
+
 #### Mar
 - Ya Han successfully defended her Ph.D. thesis and continued her postdoc research in the lab. Congratulations Dr. Han!
 - Our review on Single-Cell Omics: experimental workflow, data analyses and applications is accepted by [Science China Life Sciences](https://www.sciengine.com/SCLS/doi/10.1007/s11427-023-2561-0;JSESSIONID=7b2d6e31-7cb2-46e4-ac9e-d8006970d173).
@@ -20,8 +27,8 @@ permalink: /news
 #### Dec
 - Wang lab held the New Year's Eve party together. Embrace the brand new 2024!
 - Xin won the 17th Academic Pioneer of Tongji University. Congratulations!
-- The lab organized the 10th YBP at Tongji University.
-- The lab attened CSHA meeting, Frontiers in Single-cells at Suzhou. Chenfei gave oral presentations.
+- The lab organized the 10th YBP workshop at Tongji University.
+- The lab attended CSHA meeting, Frontiers in Single-cells at Suzhou. Chenfei gave oral presentations.
 
 #### Oct
 - Chenfei is invited to speak at CSHA meeting, Systems Biology of Gene Regulation and Genome Editing.
