@@ -2,9 +2,9 @@
 title: Xin Dong
 layout: people
 permalink: /people/xin_dong
-status: Student
+status: Staff
 pname: Xin Dong
-position: PhD student in Bioinformatics
+position: Research Assistant
 eml: xindong9511@gmail.com
 website: 
 cv: 
@@ -14,5 +14,5 @@ google_scholar: https://scholar.google.com/citations?hl=en&user=gzrxBacAAAAJ
 twitter: https://twitter.com/xindong95
 facebook: 
 instagram:
-desp: Xin received his bachelor's degree in Biotechnology from Shandong Normal University in 2018. His research focuses on elucidating the mechanism of gene regulation and epigenome in cancer genome based on available public data. Recently he is working on developing computational approaches to investigate gene regulation with the power of single-cell technology.
+desp: Xin received his bachelor's degree in Biotechnology from Shandong Normal University in 2018 and PHD in Bioinformatics from Tongji University in 2024. His research focuses on elucidating the mechanism of gene regulation and epigenome in cancer genome based on available public data. Recently he is working on developing computational approaches to investigate gene regulation with the power of single-cell technology.
 ---

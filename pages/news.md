@@ -8,7 +8,14 @@ permalink: /news
 
 ### 2024
 
+#### Sep
+- The lab welcomes Ph.D. student Yongyan, Xinwei, master student Pengpeng, Xuanxin, and rotation student Leyi!
+
+#### Aug
+- The lab went on a trip to Shengsi island in Zhoushan!
+
 #### July
+- Dongqing Sun and Xin Dong successfully defended their Ph.D. thesis. Wish you all the best, Dr. Sun and Dr. Dong!
 - Our SCRIPro method for inferring gene regulatory networks from single-cell or spatial multiome data is published in [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btae466/7716542?utm_source=advanceaccess&utm_campaign=bioinformatics&utm_medium=email)!
 
 #### May
