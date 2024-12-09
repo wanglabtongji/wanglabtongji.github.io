@@ -41,8 +41,8 @@ navbar-links:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: 08chenfeiwang@tongji.edu.cn
-  github: chenfeiwang
-  twitter: wang_chenfei
+  github: wanglabtongji
+  twitter: ChenfeiWangTJ
   rss: false
 #  reddit: yourname
 #  linkedin: daattali
