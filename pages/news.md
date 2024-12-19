@@ -10,10 +10,10 @@ permalink: /news
 
 #### Nov
 - We are excited to announce that our computational integration of a pan-cancer tabula for cell identities using scRNA-seq has been accepted for publication in Nature Cancer! Explore the pan-cancer cellular landscape and spatial crosstalks on the TabulaTIME website.
-- Our collaboration on deciphering bladder cancer recurrence and its microenvironment features using scRNA-seq has been accepted for publication in Communication Biology!
+- Our collaboration on deciphering bladder cancer recurrence and its microenvironment features using scRNA-seq has been accepted for publication in [Communication Biology](https://www.nature.com/articles/s42003-024-07343-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241219&utm_content=10.1038/s42003-024-07343-7)!
 
 #### Oct
-- Our joint research on investigating non-small cell lung cancer (NSCLC) immunotherapy responses using spatial transcriptomics technologies has been accepted for publication in Nature Genetics!
+- Our joint research on investigating non-small cell lung cancer (NSCLC) immunotherapy responses using spatial transcriptomics technologies has been accepted for publication in [Nature Genetics](https://www.nature.com/articles/s41588-024-01998-y)!
 
 #### Sep
 - The lab welcomes Ph.D. student Yongyan, Xinwei, master student Pengpeng, Xuanxin, and rotation student Leyi!

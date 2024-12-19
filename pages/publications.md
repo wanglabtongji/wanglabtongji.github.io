@@ -11,9 +11,15 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2024
-- **Chang Z#**, **Xu Y#**, **Dong X**, Gao Y, **Wang C\***. Single-cell and spatial multiomic inference of gene regulatory networks using SCRIPro._**Bioinform.**_ 2024; Advanced online.<br>
+- **Yan Y#**, **Sun D#**, **Hu J#**, **Sun L**, Yu H, Xiong Y, Huang Z, Xia H, Zhu X, Bian D, Sun F, Chen Y, Hou L, Wu C, Fan R, Zeng A*, Zhang L*, Sun Y*, **Wang C\***, Zhang P*. Multi-omic profiling highlights factors associated with resistance to immuno-chemotherapy in non-small cell lung cancer._**Nat. Genet.**_ 2024; Advanced online.<br>
+[[Abstract]](https://www.nature.com/articles/s41588-024-01998-y)
+[[Full Paper]](/resources/publications/2024_NG_NSCLC.pdf)
+- Liu S#\*, Feng C#, Tan L#, Zhang D, Li Y, **Han Y\***, **Wang C\***. Single-cell dissection of multifocal bladder cancer reveals malignant and immune cells variation between primary and recurrent tumor lesions._**Commu. Biol.**_ 2024; Advanced online.<br>
+[[Abstract]](https://www.nature.com/articles/s42003-024-07343-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241219&utm_content=10.1038/s42003-024-07343-7)
+[[Full Paper]](/resources/publications/2024_CB_BLCA.pdf)
+- **Chang Z#**, **Xu Y#**, **Dong X**, Gao Y, **Wang C\***. Single-cell and spatial multiomic inference of gene regulatory networks using SCRIPro._**Bioinform.**_ 2024; 40 (7), btae466.<br>
 [[Abstract]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btae466/7716542?utm_source=advanceaccess&utm_campaign=bioinformatics&utm_medium=email)
-[[Full Paper]](/resources/publications/2024_Bioinform_SCRIPro)
+[[Full Paper]](/resources/publications/2024_Bioinform_SCRIPro.pdf)
 [[Software]](https://github.com/wanglabtongji/SCRIPro)
 - Sun F#, Li H#, **Sun D#**, Fu S#, Gu L#, Shao X#, Wang Q#, **Dong X#**, Duan B#, Xing F#, Wu J#, Xiao M\*, Zhao F\*, Han J\*, Liu Q\*, Fan X\*, Li C\*, **Wang C\***, Shi T\*. Single- Cell Omics: experimental workflow, data analyses and applications. _**Sci. China Life Sci.**_ 2024; Advanced online.<br>
 [[Abstract]](https://www.sciengine.com/SCLS/doi/10.1007/s11427-023-2561-0;JSESSIONID=7b2d6e31-7cb2-46e4-ac9e-d8006970d173)
