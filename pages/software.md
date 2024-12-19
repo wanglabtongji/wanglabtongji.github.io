@@ -12,7 +12,9 @@ permalink: /software/
 - [**HUSCH**](http://husch.comp-genomics.org) &nbsp;
 (Human Universal Single-cell Hub) is a scRNA-seq database that includes over 3M human normal scRNA-seq cells from 41 tissue/organs, and provides detailed cell-type annotation and gene expression visualization across different tissue/organs.
 - [**TabulaTIME**](http://wanglab-compbio.cn/TabulaTIME/) &nbsp;
-(Tabula of pan-cancer Tumor Microenvironment) is a comprehensive tumor microenvironment landscape by integrating single-cell and spatial transcriptomic data.
+(Tabula of pan-cancer Tumor Immune Microenvironment) is a comprehensive tumor microenvironment landscape by integrating single-cell and spatial transcriptomic data.
+- [**MetroTIME**](http://wanglab-compbio.cn/MetroTIME/) &nbsp;
+(Metabolic Regulome of the pan-cancer Tumor Immune Microenvironment) serves as a comprehensive resource detailing the metabolic heterogeneities and their associated regulomes in pan-cancer fibroblasts and myeloid cells.
 
 #### Single Cell Multiomics
 - [**SCRIPro**](https://github.com/wanglabtongji/SCRIPro) &nbsp;
