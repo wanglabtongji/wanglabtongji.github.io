@@ -18,7 +18,7 @@ permalink: /software/
 
 #### Single Cell Multiomics
 - [**Cisformer**](https://github.com/wanglabtongji/Cisformer) &nbsp;
-(Cistrome-transcriptome tranlator using Transformer) Cisformer is a cross-attention-based model for single-cell cross-modality generation between gene expression and chromatin accessibility.
+(Cistrome-transcriptome translator using Transformer) Cisformer is a cross-attention-based model for single-cell cross-modality generation between gene expression and chromatin accessibility.
 - [**SCRIPro**](https://github.com/wanglabtongji/SCRIPro) &nbsp;
 (Single Cell Regulatory network Inference for Spatial Multiomics) is a tool for infering the gene regulatory networks for both single-cell and spatial transcriptomics and multiomics.
 - [**SCRIP**](https://github.com/wanglabtongji/SCRIP) &nbsp;
