@@ -4,8 +4,8 @@ layout: people
 permalink: /people/leyi_zhang
 status: Student
 pname: Leyi Zhang
-position: Undergraduate student in Bioinformatics
-eml: 2153362@tongji.edu.cn
+position: PhD student in Bioinformatics
+eml: 2511593@tongji.edu.cn
 website: 
 cv: 
 github:
