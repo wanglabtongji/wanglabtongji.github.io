@@ -10,11 +10,13 @@ permalink: /publications
 Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYAAAAJ&hl=en) for more details.<br>
 \# Co-first authors; \* Co-corresponding authors
 
-### 2024
-- **Yan Y#**, **Sun D#**, **Hu J#**, **Sun L**, Yu H, Xiong Y, Huang Z, Xia H, Zhu X, Bian D, Sun F, Chen Y, Hou L, Wu C, Fan R, Zeng A\*, Zhang L\*, Sun Y\*, **Wang C\***, Zhang P\*. Multi-omic profiling highlights factors associated with resistance to immuno-chemotherapy in non-small cell lung cancer. _**Nat. Genet.**_ 2024; Advanced online.<br>
+### 2025
+- **Yan Y#**, **Sun D#**, **Hu J#**, **Sun L**, Yu H, Xiong Y, Huang Z, Xia H, Zhu X, Bian D, Sun F, Chen Y, Hou L, Wu C, Fan R, Zeng A\*, Zhang L\*, Sun Y\*, **Wang C\***, Zhang P\*. Multi-omic profiling highlights factors associated with resistance to immuno-chemotherapy in non-small cell lung cancer. _**Nat. Genet.**_ 2025; 57 (1), 126-139.<br>
 [[Abstract]](https://www.nature.com/articles/s41588-024-01998-y)
 [[Full Paper]](/resources/publications/2024_NG_NSCLC.pdf)
-- Liu S#\*, Feng C#, Tan L#, Zhang D, Li Y, **Han Y\***, **Wang C\***. Single-cell dissection of multifocal bladder cancer reveals malignant and immune cells variation between primary and recurrent tumor lesions. _**Commu. Biol.**_ 2024; Advanced online.<br>
+
+### 2024
+- Liu S#\*, Feng C#, Tan L#, Zhang D, Li Y, **Han Y\***, **Wang C\***. Single-cell dissection of multifocal bladder cancer reveals malignant and immune cells variation between primary and recurrent tumor lesions. _**Commu. Biol.**_ 2024; 7 (1), 1659.<br>
 [[Abstract]](https://www.nature.com/articles/s42003-024-07343-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241219&utm_content=10.1038/s42003-024-07343-7)
 [[Full Paper]](/resources/publications/2024_CB_BLCA.pdf)
 - **Chang Z#**, **Xu Y#**, **Dong X**, Gao Y, **Wang C\***. Single-cell and spatial multiomic inference of gene regulatory networks using SCRIPro. _**Bioinform.**_ 2024; 40 (7), btae466.<br>
