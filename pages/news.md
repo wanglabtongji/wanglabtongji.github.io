@@ -6,6 +6,20 @@ permalink: /news
 
 # News and Events
 
+### 2025
+
+#### Aug
+- The lab welcomes Ph.D. student Leyi, Zijia, and Yazi, master student Xiantong!
+- Ya had her first baby! Big congrats to Ya!
+
+#### July
+- The lab went on a trip to Kunming, Dali, and Lijiang in Yunnan!
+
+#### May
+- Xiaoying Shi successfully defended her Ph.D. thesis! Congratulations Dr. Shi!
+- Zhonghua Dong successfully defended her master thesis and continued her Phd in the lab. Congratulations!
+
+
 ### 2024
 
 #### Nov
@@ -26,7 +40,7 @@ permalink: /news
 - Our SCRIPro method for inferring gene regulatory networks from single-cell or spatial multiome data is published in [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btae466/7716542?utm_source=advanceaccess&utm_campaign=bioinformatics&utm_medium=email)!
 
 #### May
-- Yunfan Xu successfully defended hist master thesis. Congratulations!
+- Yunfan Xu successfully defended his master thesis. Congratulations!
 - The lab attended Ya Han's Wedding, congratulations on her wedding and wish her a lifetime of happiness and love!
 
 #### Mar
