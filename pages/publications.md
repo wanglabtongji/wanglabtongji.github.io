@@ -11,6 +11,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
+- **Han Y**, Zhang L, **Sun D**, Cao G, **Wang Y**, **Yue J**, **Hu J**, **Dong Z**, Li F, Li T, Zhang P, **Wu Q\***, **Wang C\***. Spatiotemporal analyses of the pan-cancer single-cell landscape reveal widespread profibrotic ecotypes associated with tumor immunity. _**Nat. Cancer**_ 2025; Advanced online.<br>
+[[Abstract]](https://www.nature.com/articles/s43018-025-01039-5)
+[[Full Paper]](/resources/publications/2025_NatCancer_TabulaTIME.pdf)
 - **Yan Y#**, **Sun D#**, **Hu J#**, **Sun L**, Yu H, Xiong Y, Huang Z, Xia H, Zhu X, Bian D, Sun F, Chen Y, Hou L, Wu C, Fan R, Zeng A\*, Zhang L\*, Sun Y\*, **Wang C\***, Zhang P\*. Multi-omic profiling highlights factors associated with resistance to immuno-chemotherapy in non-small cell lung cancer. _**Nat. Genet.**_ 2025; 57 (1), 126-139.<br>
 [[Abstract]](https://www.nature.com/articles/s41588-024-01998-y)
 [[Full Paper]](/resources/publications/2024_NG_NSCLC.pdf)
