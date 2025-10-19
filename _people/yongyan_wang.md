@@ -5,7 +5,7 @@ permalink: /people/yongyan_wang
 status: Student
 pname: Yongyan Wang
 position: PhD student in Bioinformatics
-eml: 2411546@tongji.edu.cn
+eml: tongji_wangyongyan@tongji.edu.cn
 website: 
 cv: 
 github:
