@@ -8,6 +8,10 @@ permalink: /news
 
 ### 2025
 
+#### Oct
+- Our MetroSCREEN method for predicting metabolic activity and regulons from single-cell RNA-seq data is accepted in Genome Medicine!
+- Our Cisformer method for single-cell cross-modality generation is published in [Genome Biology](https://link.springer.com/article/10.1186/s13059-025-03823-z)!
+
 #### Aug
 - The lab welcomes Ph.D. student Leyi, Zijia, and Yazi, master student Xiantong!
 - Ya had her first baby! Big congrats to Ya!
@@ -19,11 +23,10 @@ permalink: /news
 - Xiaoying Shi successfully defended her Ph.D. thesis! Congratulations Dr. Shi!
 - Zhonghua Dong successfully defended her master thesis and continued her Phd in the lab. Congratulations!
 
-
 ### 2024
 
 #### Nov
-- We are excited to announce that our computational integration of a pan-cancer tabula for cell identities using scRNA-seq has been accepted for publication in Nature Cancer! Explore the pan-cancer cellular landscape and spatial crosstalks on the TabulaTIME website.
+- We are excited to announce that our computational integration of a pan-cancer tabula for cell identities using scRNA-seq has been accepted for publication in [Nature Cancer](https://www.nature.com/articles/s43018-025-01039-5)! Explore the pan-cancer cellular landscape and spatial crosstalks on the [TabulaTIME](https://wanglab-compbio.cn/TabulaTIME/) website.
 - Our collaboration on deciphering bladder cancer recurrence and its microenvironment features using scRNA-seq has been accepted for publication in [Communication Biology](https://www.nature.com/articles/s42003-024-07343-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241219&utm_content=10.1038/s42003-024-07343-7)!
 
 #### Oct
