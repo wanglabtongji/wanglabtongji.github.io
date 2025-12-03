@@ -8,6 +8,9 @@ permalink: /news
 
 ### 2025
 
+#### Nov
+- Our collaboration on using single-cell and spatial technologies to deciphering mechanism for ICI responses for cevival cancer is published in [JITC](https://jitc.bmj.com/lookup/doi/10.1136/jitc-2025-012630)!
+
 #### Oct
 - Our MetroSCREEN method for predicting metabolic activity and regulons from single-cell RNA-seq data is accepted in Genome Medicine!
 - Our Cisformer method for single-cell cross-modality generation is published in [Genome Biology](https://link.springer.com/article/10.1186/s13059-025-03823-z)!
