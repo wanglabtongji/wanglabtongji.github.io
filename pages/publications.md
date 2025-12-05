@@ -11,9 +11,10 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
-- **Yan Y#**, **Sun D#**, **Hu J#**, **Sun L**, Yu H, Xiong Y, Huang Z, Xia H, Zhu X, Bian D, Sun F, Chen Y, Hou L, Wu C, Fan R, Zeng A\*, Zhang L\*, Sun Y\*, **Wang C\***, Zhang P\*. Multi-omic profiling highlights factors associated with resistance to immuno-chemotherapy in non-small cell lung cancer. _**Nat. Genet.**_ 2025; 57 (1), 126-139.<br>
-[[Abstract]](https://www.nature.com/articles/s41588-024-01998-y)
-[[Full Paper]](/resources/publications/2024_NG_NSCLC.pdf)
+- **Han Y**, Zhang L, **Sun D**, Cao G, **Wang Y**, **Yue J**, **Hu J**, **Dong Z**, Li F, Li T, Zhang P, **Wu Q\***, **Wang C\***. Spatiotemporal analyses of the pan-cancer single-cell landscape reveal widespread profibrotic ecotypes associated with tumor immunity. _**Nat. Cancer**_ 2025; 1-19.<br>
+[[Abstract]](https://www.nature.com/articles/s43018-025-01039-5)
+[[Full Paper]](/resources/publications/2025_NatCancer_TabulaTIME.pdf)
+[[Website]](http://wanglab-compbio.cn/TabulaTIME/)
 - **Tang K#**, **Han Y#**, **Sun D**, **Dong X**, **Han T**, **Wei H**, **Shao W**, Hu J, **Liu Z**, Zhang L, Li T, Zhang P, **Wu Q\***, **Wang C\***. Reference-guided computational framework identifies microenvironment metabolic subtypes and targets using pan-cancer single-cell datasets. _**Genome Med.**_ 2025; In press<br>
 [[Abstract]]()
 [[Full Paper]]()
@@ -21,15 +22,14 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 - **Ji L#**, **Zou Q#**, **Tang K**, **Wang C\***. Cisformer: a scalable cross‑modality generation framework for decoding transcriptional regulation at single‑cell resolution. _**Genome Biol**_ 2025; 26 (1), 340.<br>
 [[Abstract]](https://link.springer.com/article/10.1186/s13059-025-03823-z)
 [[Full Paper]](/resources/publications/2025_GB_Cisformer.pdf)
-- **Han Y**, Zhang L, **Sun D**, Cao G, **Wang Y**, **Yue J**, **Hu J**, **Dong Z**, Li F, Li T, Zhang P, **Wu Q\***, **Wang C\***. Spatiotemporal analyses of the pan-cancer single-cell landscape reveal widespread profibrotic ecotypes associated with tumor immunity. _**Nat. Cancer**_ 2025; 1-19.<br>
-[[Abstract]](https://www.nature.com/articles/s43018-025-01039-5)
-[[Full Paper]](/resources/publications/2025_NatCancer_TabulaTIME.pdf)
+[[Software]](https://github.com/wanglabtongji/Cisformer)
+- **Yan Y#**, **Sun D#**, **Hu J#**, **Sun L**, Yu H, Xiong Y, Huang Z, Xia H, Zhu X, Bian D, Sun F, Chen Y, Hou L, Wu C, Fan R, Zeng A\*, Zhang L\*, Sun Y\*, **Wang C\***, Zhang P\*. Multi-omic profiling highlights factors associated with resistance to immuno-chemotherapy in non-small cell lung cancer. _**Nat. Genet.**_ 2025; 57 (1), 126-139.<br>
+[[Abstract]](https://www.nature.com/articles/s41588-024-01998-y)
+[[Full Paper]](/resources/publications/2024_NG_NSCLC.pdf)
 - Cao G#, Wang Y#, Zeng H#, Zhi Y#, Guo Y, Xu M, Ruan Y, Wang Y, Xiao Y, Lu J, Tse K , Gao J, Zhang Q, **Wang C\***, Han Z\* and Li F\*. Oligoclonal tumor specific CD8 T-cell Revival and IRE1α/XBP1-GDF15 Mediated Immunosuppressive Niches Determine Neoadjuvant Chemoimmunotherapy Efficacy in Cervical Cancer. _**J. Immunother. Cancer**_ 2025; 13 (11), e012630<br>
 [[Abstract]](https://jitc.bmj.com/lookup/doi/10.1136/jitc-2025-012630)
 [[Full Paper]](/resources/publications/2025_JITC_CESC.pdf)
 - Luo C#, Zhang R#, Guo R#, Wu L, Xue T, He Y, Jin Y, Zhao Y, Zhang Z, Zhang P, Ye S, Li X, Li D, Zhang W, **Wang C**, Lai L, Pan-Hammarström Q, Wucherpfennig KW, Gao Z\*, Pan D\*, Zeng Z\*. Integrated computational analysis identifies therapeutic targets with dual action in cancer cells and T cells. _**Immunity**_ 2025; 58 (3), 745-765. e9<br>
-[[Abstract]](https://linkinghub.elsevier.com/retrieve/pii/S1074-7613(25)00072-X)
-[[Full Paper]](/resources/publications/2025_Immunity_ICRAFT.pdf)
 
 ### 2024
 - Liu S#\*, Feng C#, Tan L#, Zhang D, Li Y, **Han Y\***, **Wang C\***. Single-cell dissection of multifocal bladder cancer reveals malignant and immune cells variation between primary and recurrent tumor lesions. _**Commu. Biol.**_ 2024; 7 (1), 1659.<br>
