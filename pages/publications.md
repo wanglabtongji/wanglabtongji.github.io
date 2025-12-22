@@ -11,13 +11,17 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2025
+- **Sun D#**, Zhang L#, **Han T**, **Wu Q**, Zhang P\*, **Wang C\***. Accurate, scalable and cross-platform cell identification for high-resolution spatial transcriptomics. _**Nat. Genet.**_ 2025; In press<br>
+[[Abstract]]()
+[[Full Paper]]()
+[[Software]](https://github.com/wanglabtongji/Cellist)
 - **Han Y**, Zhang L, **Sun D**, Cao G, **Wang Y**, **Yue J**, **Hu J**, **Dong Z**, Li F, Li T, Zhang P, **Wu Q\***, **Wang C\***. Spatiotemporal analyses of the pan-cancer single-cell landscape reveal widespread profibrotic ecotypes associated with tumor immunity. _**Nat. Cancer**_ 2025; 1-19.<br>
 [[Abstract]](https://www.nature.com/articles/s43018-025-01039-5)
 [[Full Paper]](/resources/publications/2025_NatCancer_TabulaTIME.pdf)
 [[Website]](http://wanglab-compbio.cn/TabulaTIME/)
-- **Tang K#**, **Han Y#**, **Sun D**, **Dong X**, **Han T**, **Wei H**, **Shao W**, Hu J, **Liu Z**, Zhang L, Li T, Zhang P, **Wu Q\***, **Wang C\***. Reference-guided computational framework identifies microenvironment metabolic subtypes and targets using pan-cancer single-cell datasets. _**Genome Med.**_ 2025; In press<br>
-[[Abstract]]()
-[[Full Paper]]()
+- **Tang K#**, **Han Y#**, **Sun D**, **Dong X**, **Han T**, **Wei H**, **Shao W**, Hu J, **Liu Z**, Zhang L, Li T, Zhang P, **Wu Q\***, **Wang C\***. Reference-guided computational framework identifies microenvironment metabolic subtypes and targets using pan-cancer single-cell datasets. _**Genome Med.**_ 2025; 17 (1), 150.<br>
+[[Abstract]](https://link.springer.com/article/10.1186/s13073-025-01572-z)
+[[Full Paper]](/resources/publications/2025_GM_MetroSCREEN.pdf)
 [[Software]](https://github.com/wanglabtongji/MetroSCREEN)
 - **Ji L#**, **Zou Q#**, **Tang K**, **Wang C\***. Cisformer: a scalable cross‑modality generation framework for decoding transcriptional regulation at single‑cell resolution. _**Genome Biol**_ 2025; 26 (1), 340.<br>
 [[Abstract]](https://link.springer.com/article/10.1186/s13059-025-03823-z)

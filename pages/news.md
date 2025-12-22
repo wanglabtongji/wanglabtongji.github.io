@@ -7,12 +7,14 @@ permalink: /news
 # News and Events
 
 ### 2025
+#### Dec
+- Our Cellist method for accurate cell segmentation and signal enhancement on high-resolution spatial transcriptomics is accepted in Nature Genetics!
 
 #### Nov
 - Our collaboration on using single-cell and spatial technologies to deciphering mechanism for ICI responses for cevival cancer is published in [Journal for ImmunoTherapy of Cancer](https://jitc.bmj.com/lookup/doi/10.1136/jitc-2025-012630)!
 
 #### Oct
-- Our MetroSCREEN method for predicting metabolic activity and regulons from single-cell RNA-seq data is accepted in Genome Medicine!
+- Our MetroSCREEN method for predicting metabolic activity and regulons from single-cell RNA-seq data is accepted in [Genome Medicine](https://link.springer.com/article/10.1186/s13073-025-01572-z)!
 - Our Cisformer method for single-cell cross-modality generation is published in [Genome Biology](https://link.springer.com/article/10.1186/s13059-025-03823-z)!
 
 #### Aug
