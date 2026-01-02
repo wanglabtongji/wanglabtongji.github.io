@@ -8,7 +8,8 @@ permalink: /news
 
 ### 2025
 #### Dec
-- Our Cellist method for accurate cell segmentation and signal enhancement on high-resolution spatial transcriptomics is accepted in Nature Genetics!
+- Our Cellist method for accurate cell segmentation and signal enhancement on high-resolution spatial transcriptomics is accepted in Nature Genetics!Congrats!
+- Chenfei published a review on computational methods for scATAC-seq technologies together with his former collegues Tao Liu! [Genom. Proteom. Bioinform.](https://academic.oup.com/gpb/article/23/6/qzaf115/8340039)
 
 #### Nov
 - Our collaboration on using single-cell and spatial technologies to deciphering mechanism for ICI responses for cevival cancer is published in [Journal for ImmunoTherapy of Cancer](https://jitc.bmj.com/lookup/doi/10.1136/jitc-2025-012630)!

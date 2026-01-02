@@ -33,6 +33,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 - Cao G#, Wang Y#, Zeng H#, Zhi Y#, Guo Y, Xu M, Ruan Y, Wang Y, Xiao Y, Lu J, Tse K , Gao J, Zhang Q, **Wang C\***, Han Z\* and Li F\*. Oligoclonal tumor specific CD8 T-cell Revival and IRE1α/XBP1-GDF15 Mediated Immunosuppressive Niches Determine Neoadjuvant Chemoimmunotherapy Efficacy in Cervical Cancer. _**J. Immunother. Cancer**_ 2025; 13 (11), e012630<br>
 [[Abstract]](https://jitc.bmj.com/lookup/doi/10.1136/jitc-2025-012630)
 [[Full Paper]](/resources/publications/2025_JITC_CESC.pdf)
+- **Wang C**, Zhou J, Zhang H, Zhuang Z, Bai G, Tang M, Liu S\*, Liu T\*.Computational analyses and challenges of single-cell ATAC-seq. _**Genom. Proteom. Bioinform.**_ 2025; 23 (6), qzaf115<br>
+[[Abstract]](https://academic.oup.com/gpb/article/23/6/qzaf115/8340039)
+[[Full Paper]](/resources/publications/2025_GPB_ScATACReview.pdf)
 - Luo C#, Zhang R#, Guo R#, Wu L, Xue T, He Y, Jin Y, Zhao Y, Zhang Z, Zhang P, Ye S, Li X, Li D, Zhang W, **Wang C**, Lai L, Pan-Hammarström Q, Wucherpfennig KW, Gao Z\*, Pan D\*, Zeng Z\*. Integrated computational analysis identifies therapeutic targets with dual action in cancer cells and T cells. _**Immunity**_ 2025; 58 (3), 745-765. e9<br>
 
 ### 2024
