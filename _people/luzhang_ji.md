@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Luzhang Ji received his B.S. in Bioengineering from East China University of Science and Technology in 2015, and earned his Ph.D. in Bioinformatics from Fudan University in 2020. He has published in Cell Reports, GPB (Genomics, Proteomics & Bioinformatics), BMC Genomics, and other journals as the (co-)first author. Now he is a postdoctoral researcher in the lab, focusing on developing computational algorithms to do cross-modality translation at single-cell resolution. He has been supported by the National Funded Postdoctoral Researcher Program and the National Natural Science Foundation Youth Fund.
+desp: Luzhang Ji completed his B.S. in Bioengineering at East China University of Science and Technology in 2015, and his Ph.D. in Bioinformatics at Fudan University in 2020. His research includes the development of Cisformer, a computational framework enabling cross-modality translation and single-cell resolution decoding of transcriptional regulation. He is currently advancing a computational approach for transcription factor binding site prediction using footprint analysis to characterize transcription factor grammar.
 ---

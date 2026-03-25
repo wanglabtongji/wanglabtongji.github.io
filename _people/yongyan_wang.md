@@ -14,5 +14,5 @@ google_scholar:
 twitter:
 facebook: 
 instagram:
-desp: Yongyan Wang received his bachelor's degree in bioinformatics from Fujian Medical University in 2024. Currently, his research focuses on the crawling and sorting of meta-information from single-cell data in GEO databases.
+desp: Yongyan received his bachelor’s degree in Bioinformatics from Fujian Medical University in 2024. His current research focuses on two cutting-edge areas including (1) developing and applying a cell-morphology large language model (LLM) at single-cell resolution to enable morphology-based virtual cell modeling, and (2) constructing pan-disease databases for large-scale, multimodal spatial transcriptomics data. His goal is to advance virtual cell morphology analysis to single-cell resolution while establishing robust links between morphological features and their underlying biological interpretability.
 ---

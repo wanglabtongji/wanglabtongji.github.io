@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Zhanhe received her bachelor's degree in Bioinformatics from Tianjin Medical University in 2020. Her research focuses on embryo development by using single cell and spatial multi-omics technologies. Recently, she's working on developing a multi-omics pipeline named SPRINT which integrated RNA Expression, DNA methylation and Chromatin Accessibility analysis in space.
+desp: Zhanhe received her B.S. in Bioinformatics from Tianjin Medical University in 2020. She developed SCRIPro for gene regulatory network inference and SPRINT for spatial epigenome reconstruction using single-cell and spatial multi-omics data. She is also interested in RNA modification regulatory mechanisms and their application to early embryonic development. Her research will focus on three main directions including (1) developing spatial multi-omics/epigenomics methods and applying them to embryonic development and aging; (2) elucidating RNA-centered regulatory mechanisms underlying cell-state transitions in space and time; and (3) building AI-based frameworks that are repeat- and regulatory RNA–aware for network inference and therapeutic target discovery.
 ---

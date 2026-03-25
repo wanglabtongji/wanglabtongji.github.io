@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Hailin received his bachelor's degree in Bioinformatics from Tongji University in 2020. His research focuses on modeling gene regulation and perturbation efficiency from single-cell CRISPR screens data. Recently, he is working on developing a universal pipeline to analyze single-cell CRISPR screens data.
+desp: Hailin received his bachelor’s degree in Bioinformatics from Tongji University in 2020. He has developed SCREE, a comprehensive pipeline for analyzing single-cell CRISPR screens across diverse modalities and perturbation types. His current research focuses on developing deep learning methods to predict single-cell perturbation responses.
 ---

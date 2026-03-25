@@ -14,5 +14,5 @@ google_scholar:
 twitter:
 facebook: 
 instagram:
-desp: Pengpeng received his bachelor’s degree in Biopharmaceuticals from Anhui Agricultural University in 2024. His research focuses on the construction and benckmark of single-cell large language models.
+desp: Pengpeng received his bachelor’s degree in Biopharmaceuticals from Anhui Agricultural University in 2024. He is currently focused on building AI Virtual Cells (AIVC), with two core directions including (1) developing foundation models for multimodal data and (2) modeling single-cell perturbation responses. He is also exploring the use of reinforcement learning and AI agents to create more dynamic and interactive AIVC systems.
 ---

@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Leyi Zhang is studying bioinformatics at Tongji University. Her current research focuses on training large language models based on single-cell data and construction of Aging Clock based on blood single-cell datasets.
+desp: Leyi received his bachelor's degree in Bioinformatics from Tongji University in 2025.Her research focuses on integrating large-scale PBMC single-cell transcriptomic datasets to construct robust aging clocks, systematically analyze aging-related molecular and cellular features across diverse immune cell types, and explore the key genes and pathways underlying immune system aging.
 ---

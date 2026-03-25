@@ -14,5 +14,5 @@ google_scholar:
 twitter:
 facebook: 
 instagram:
-desp: Zijia received his bachelor's degree in Information and Computing Science from Guangdong University of Technology in 2025. His research focuses on developing artificial intelligence algorithms based on single-cell multi-omics data to elucidate the mechanism of gene regulation.
+desp: Zijia received his bachelor’s degree in Information and Computing Science from Guangdong University of Technology in 2025. His research focuses on developing artificial intelligence algorithms based on single-cell multi-omics data to elucidate mechanisms of gene regulation. His current work focuses on developing a single-cell and spatial epigenome generation model using a detection transformer.
 ---

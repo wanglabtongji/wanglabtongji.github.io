@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Xinwei Zheng is currently studying biotechnology at Tongji University.Her current research focuses on training large language models based on single-cell data.
+desp: Xinwei Zheng received her bachelor’s degree in Biotechnology from Tongji University in 2024. She is currently studying PBMC aging using single-cell epigenome data. Her research aims to construct epigenetic aging clocks by developing computational strategies that effectively handle the high sparsity and non-linear nature of epigenomic data. She is also working to identify robust changes in individual aging-related cellular composition and epigenomic signatures that could serve as potential aging biomarkers.
 ---

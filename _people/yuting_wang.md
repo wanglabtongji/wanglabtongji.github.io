@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Yuting Wang received her bachelor's degree in Bio-medical Engineering from Harbin Medical University in 2021. Her research  now focuses on single cell data integration of multiple datasets and explores the tumor microenvironment.
+desp: Yuting received her bachelor’s degree in Biomedical Engineering from Harbin Medical University in 2021. She has been involved in building TISCH, a pan-cancer tumor immune database. Her current research focuses on integrating public single-cell transcriptomic datasets of stromal cells to construct a robust stromal aging clock. She aims to characterize aging-associated molecular features and identify key genes and pathways driving stromal cell aging, with the goal of uncovering potential therapeutic targets for aging-related diseases.
 ---
