@@ -7,6 +7,7 @@ permalink: /software/
 
 # Software
 #### Single Cell Multiomics
+- [**DeSCOPE**](https://github.com/wanglabtongji/DeSCOPE) &nbsp; is a single-cell perturbation prediction framework designed for scRNA-seq, scATAC-seq, and general single-cell–level perturbation modeling.
 - [**MetroSCREEN**](https://github.com/wanglabtongji/MetroSCREEN) &nbsp; is computational workflow for predicting metabolic activities and regulomes from single-cell RNA-seq data.
 - [**Cisformer**](https://github.com/wanglabtongji/Cisformer) &nbsp; is a cross-attention-based model for single-cell cross-modality generation between gene expression and chromatin accessibility.
 - [**SCRIPro**](https://github.com/wanglabtongji/SCRIPro) &nbsp; is a tool for evaluating gene regulatory network activities for both single-cell and spatial transcriptomics and multiomics.
