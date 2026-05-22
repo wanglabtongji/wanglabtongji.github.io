@@ -11,9 +11,9 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2026
-- **Sun D#**, Zhang L#, **Han T**, **Wu Q**, Zhang P\*, **Wang C\***. Accurate, scalable and cross-platform cell identification for high-resolution spatial transcriptomics. _**Nat. Genet.**_ 2026; In press<br>
-[[Abstract]]()
-[[Full Paper]]()
+- **Sun D#**, Zhang L#, **Han T**, **Wu Q**, Zhang P\*, **Wang C\***. Accurate, scalable and cross-platform cell identification for high-resolution spatial transcriptomics. _**Nat. Genet.**_ 2026; <br>
+[[Abstract]](https://www.nature.com/articles/s41588-026-02610-1)
+[[Full Paper]](/resources/publications/2026_NatGenet_Cellist.pdf)
 [[Software]](https://github.com/wanglabtongji/Cellist)
 
 ### 2025

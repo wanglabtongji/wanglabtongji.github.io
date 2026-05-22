@@ -6,9 +6,20 @@ permalink: /news
 
 # News and Events
 
+### 2026
+
+#### May
+- Ke Tang and Hailin Wei successfully defended their Ph.D. thesis! Congratulations Dr. Tang and Dr.Wei!
+
+#### Apr
+- The lab attended CSHA meeting, Artificial Intelligence for Biology at Suzhou. Chenfei gave oral presentation.
+
+#### Feb
+- Luzhang had his first baby! Congratulations on becoming a dad!
+
 ### 2025
 #### Dec
-- Our Cellist method for accurate cell segmentation and signal enhancement on high-resolution spatial transcriptomics is accepted in Nature Genetics!Congrats!
+- Our Cellist method for accurate cell segmentation and signal enhancement on high-resolution spatial transcriptomics is accepted in [Nature Genetics](https://www.nature.com/articles/s41588-026-02610-1)!Congrats!
 - Chenfei published a review on computational methods for scATAC-seq technologies together with his former collegues Tao Liu! [Genom. Proteom. Bioinform.](https://academic.oup.com/gpb/article/23/6/qzaf115/8340039)
 
 #### Nov
@@ -66,7 +77,7 @@ permalink: /news
 - Wang lab held the New Year's Eve party together. Embrace the brand new 2024!
 - Xin won the 17th Academic Pioneer of Tongji University. Congratulations!
 - The lab organized the 10th YBP workshop at Tongji University.
-- The lab attended CSHA meeting, Frontiers in Single-cells at Suzhou. Chenfei gave oral presentations.
+- The lab attended CSHA meeting, Frontiers in Single-cells at Suzhou. Chenfei gave oral presentation.
 
 #### Oct
 - Chenfei is invited to speak at CSHA meeting, Systems Biology of Gene Regulation and Genome Editing.
