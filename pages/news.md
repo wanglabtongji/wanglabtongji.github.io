@@ -8,6 +8,17 @@ permalink: /news
 
 ### 2026
 
+#### Sep
+- The lab welcomes Ph.D. student Rui, Shiyu, and Xinyi, roation students Yanji and Luyan!
+- Wenwen Shao successfully defended her master thesis. Congratulations!
+
+#### Aug
+- Wang lab hosted a successful AI4 Biology summer training program! This summer, we learned about DNA/RNA foundation models, AIVC, and machine learning models for cell–cell interactions.
+
+#### July
+- Ke's collaboration on using single-cell multiomics to investigate neuron development is published in [National Science Review](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag516/8774603)!
+- Xiyang's collaboration on developing a new single-cell TF and histone modification detection method, DeChIP-seq, has been published in [Cell Research](https://www.nature.com/articles/s41422-026-01275-z)!
+
 #### May
 - Ke Tang and Hailin Wei successfully defended their Ph.D. thesis! Congratulations Dr. Tang and Dr.Wei!
 

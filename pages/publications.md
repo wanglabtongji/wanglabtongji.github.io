@@ -11,10 +11,16 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 \# Co-first authors; \* Co-corresponding authors
 
 ### 2026
-- **Sun D#**, Zhang L#, **Han T**, **Wu Q**, Zhang P\*, **Wang C\***. Accurate, scalable and cross-platform cell identification for high-resolution spatial transcriptomics. _**Nat. Genet.**_ 2026; <br>
+- **Sun D#**, Zhang L#, **Han T**, **Wu Q**, Zhang P\*, **Wang C\***. Accurate, scalable and cross-platform cell identification for high-resolution spatial transcriptomics. _**Nat. Genet.**_ 2026; 58 (1), 1434–1445. <br>
 [[Abstract]](https://www.nature.com/articles/s41588-026-02610-1)
 [[Full Paper]](/resources/publications/2026_NatGenet_Cellist.pdf)
 [[Software]](https://github.com/wanglabtongji/Cellist)
+- Shi Z#, **Chen X#**, Yang Y, Wu A, Wang H, Chen K, Li C, Zou L, Qu Z, Zhao Y, Gan W, Chen J, Liu W, Shi J, Wang H, Zhang J\*, **Wang C\***, Gao S\*, Liu X\*. Genome-wide profiling of histone modifications and transcription factor binding at single-cell resolution by DeChIC-seq. _**Cell Res.**_ 2026; 1-12. <br>
+[[Abstract]](https://www.nature.com/articles/s41422-026-01275-z)
+[[Full Paper]](/resources/publications/2026_CR_DeChICseq.pdf)
+- Wu H#, **Tang K#**, Xu R#, Li T, Liang K, Wang X, Yang Y, Yin Y, Xie J, Li C, Liu X, Bai Q\*, **Wang C\***, Shen Q\*, Gao S\*. Integrative analysis of the embryonic origin of adult neural stem cells in forebrain subventricular zones. _**Natl. Sci. Rev.**_ 2026; nwag516. <br>
+[[Abstract]](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag516/8774603)
+[[Full Paper]](/resources/publications/2026_NSR_NeuronScMultiome.pdf)
 
 ### 2025
 - **Han Y**, Zhang L, **Sun D**, Cao G, **Wang Y**, **Yue J**, **Hu J**, **Dong Z**, Li F, Li T, Zhang P, **Wu Q\***, **Wang C\***. Spatiotemporal analyses of the pan-cancer single-cell landscape reveal widespread profibrotic ecotypes associated with tumor immunity. _**Nat. Cancer**_ 2025; 6 (11), 1880-1898.<br>
