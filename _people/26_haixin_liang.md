@@ -1,4 +1,3 @@
-
 ---
 title: Haixin Liang
 layout: people
