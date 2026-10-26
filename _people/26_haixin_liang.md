@@ -5,7 +5,7 @@ permalink: /people/haixin_liang
 status: Student
 pname: Haixin Liang
 position: PhD Student
-eml:2611694@tongji.edu.cn
+eml: 2611694@tongji.edu.cn
 website:
 cv:
 github:
