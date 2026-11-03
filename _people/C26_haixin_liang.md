@@ -2,7 +2,7 @@
 title: Haixin Liang
 layout: people
 permalink: /people/haixin_liang
-status: Student
+status: Collaborating Student
 pname: Haixin Liang
 position: PhD Student
 eml: 2611694@tongji.edu.cn
